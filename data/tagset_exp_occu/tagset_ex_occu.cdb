@@ -1,0 +1,52 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R01700.00    [EXP-1]                                        Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             WHAT WOULD R LIKE TO BE DOING AT AGE 35?
+ 
+ORIGINAL QUESTION NAME: S22Q01A1
+ 
+NOW I WOULD LIKE TO TALK WITH YOU ABOUT YOUR FUTURE PLANS. WHAT
+WOULD YOU LIKE TO BE DOING WHEN YOU ARE 35 YEARS OLD?
+ 
+UNIVERSE: All
+ 
+     233       1 PRESENT JOB
+    9723       2 SOME OCCUPATION
+    1454       3 MARRIED, FAMILY
+     633       4 OTHER (SPECIFY)
+  -------
+   12043
+ 
+Refusal(-1)            0
+Don't Know(-2)       637
+Invalid Skip(-3)       6
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Lead In: R01699.00[Default]
+Default Next Question: R01701.00

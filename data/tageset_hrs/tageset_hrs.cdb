@@ -1,0 +1,812 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R00705.00    [QES1-52A]                                     Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: S10Q03A
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer
+ 
+     619           1 TO 9
+     921          10 TO 19
+     863          20 TO 29
+     626          30 TO 39
+    1715          40 TO 49
+     157          50 TO 59
+      54          60 TO 69
+      18          70 TO 79
+      12          80 TO 89
+       5          90 TO 99
+  -------
+    4990
+ 
+Refusal(-1)            0
+Don't Know(-2)         6
+Invalid Skip(-3)     235
+TOTAL =========>    5231   VALID SKIP(-4)    7455     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:             96        Mean:               28.31
+ 
+Lead In: R00704.00[Default]
+Default Next Question: R00726.00
+--------------------------------------------------------------------------------
+R03378.00    [QES1-52A]                                     Survey Year: 1980
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: S31DB365
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB.
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       1           0
+     312           1 TO 9
+     390          10 TO 19
+     533          20 TO 29
+     496          30 TO 39
+    1041          40 TO 49
+     102          50 TO 59
+      47          60 TO 69
+      15          70 TO 79
+      14          80 TO 89
+       6          90 TO 99
+       0         100 TO 9999999: 100+
+  -------
+    2957
+ 
+Refusal(-1)            0
+Don't Know(-2)         3
+Invalid Skip(-3)      12
+TOTAL =========>    2972   VALID SKIP(-4)    9169     NON-INTERVIEW(-5)     545
+ 
+Min:              0        Max:             96        Mean:               30.19
+ 
+Lead In: R03377.00[Default]
+Default Next Question: R03379.00
+--------------------------------------------------------------------------------
+R05456.00    [QES1-52A]                                     Survey Year: 1981
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: S40DB428
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+     229           1 TO 9
+     370          10 TO 19
+     513          20 TO 29
+     476          30 TO 39
+    1106          40 TO 49
+     132          50 TO 59
+      51          60 TO 69
+      21          70 TO 79
+      13          80 TO 89
+       8          90 TO 99
+       0         100 TO 9999999: 100+
+  -------
+    2919
+ 
+Refusal(-1)            0
+Don't Know(-2)         6
+Invalid Skip(-3)      26
+TOTAL =========>    2951   VALID SKIP(-4)    9244     NON-INTERVIEW(-5)     491
+ 
+Min:              1        Max:             96        Mean:               31.61
+ 
+Lead In: R05455.00[Default]
+Default Next Question: R05457.00
+--------------------------------------------------------------------------------
+R08399.00    [QES1-52A]                                     Survey Year: 1982
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: S31DB410
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB.
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+     507           1 TO 9
+    1013          10 TO 19
+    1312          20 TO 29
+    1424          30 TO 39
+    4504          40 TO 49
+     444          50 TO 59
+     166          60 TO 69
+      66          70 TO 79
+      40          80 TO 89
+      21          90 TO 99
+       0         100 TO 9999999: 100+
+  -------
+    9497
+ 
+Refusal(-1)            0
+Don't Know(-2)        12
+Invalid Skip(-3)      17
+TOTAL =========>    9526   VALID SKIP(-4)    2597     NON-INTERVIEW(-5)     563
+ 
+Min:              1        Max:             96        Mean:               33.89
+ 
+Lead In: R08398.00[Default]
+Default Next Question: R08400.00
+--------------------------------------------------------------------------------
+R10873.00    [QES1-52A]                                     Survey Year: 1983
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB413
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       2           1 TO 4
+      16           5 TO 9
+      10          10 TO 14
+      10          15 TO 19
+      23          20 TO 24
+       9          25 TO 29
+      14          30 TO 34
+      12          35 TO 39
+      45          40 TO 44
+       4          45 TO 49
+      17          50 TO 9999999: 50+
+  -------
+     162
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       3
+TOTAL =========>     165   VALID SKIP(-4)   12056     NON-INTERVIEW(-5)     465
+ 
+Min:              1        Max:             96        Mean:               30.74
+ 
+Lead In: R10872.00[Default]
+Default Next Question: R10874.00
+--------------------------------------------------------------------------------
+R14630.00    [QES1-52A]                                     Survey Year: 1984
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB413
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       1           0
+       9           1 TO 4
+      15           5 TO 9
+      14          10 TO 14
+      21          15 TO 19
+      37          20 TO 24
+       8          25 TO 29
+      15          30 TO 34
+      13          35 TO 39
+      39          40 TO 44
+      12          45 TO 49
+      12          50 TO 9999999: 50+
+  -------
+     196
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       3
+TOTAL =========>     199   VALID SKIP(-4)   11870     NON-INTERVIEW(-5)     617
+ 
+Min:              0        Max:             96        Mean:               27.28
+ 
+Lead In: R14629.00[Default]
+Default Next Question: R14631.00
+--------------------------------------------------------------------------------
+R18098.00    [QES1-52A]                                     Survey Year: 1985
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB413
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?  ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       3           1 TO 4
+       5           5 TO 9
+      12          10 TO 14
+      11          15 TO 19
+      13          20 TO 24
+       5          25 TO 29
+       5          30 TO 34
+       5          35 TO 39
+      19          40 TO 44
+       2          45 TO 49
+       6          50 TO 9999999: 50+
+  -------
+      86
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>      86   VALID SKIP(-4)   10808     NON-INTERVIEW(-5)    1792
+ 
+Min:              1        Max:             78        Mean:               26.78
+ 
+Lead In: R18097.00[Default]
+Default Next Question: R18099.00
+--------------------------------------------------------------------------------
+R21715.00    [QES1-52A]                                     Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB371
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       0           1 TO 4
+       2           5 TO 9
+       2          10 TO 14
+       0          15 TO 19
+       8          20 TO 24
+       3          25 TO 29
+       6          30 TO 34
+       1          35 TO 39
+      16          40 TO 44
+       1          45 TO 49
+       5          50 TO 9999999: 50+
+  -------
+      44
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>      44   VALID SKIP(-4)   10611     NON-INTERVIEW(-5)    2031
+ 
+Min:              5        Max:             96        Mean:                35.3
+ 
+Lead In: R21714.00[Default]
+Default Next Question: R21716.00
+--------------------------------------------------------------------------------
+R23763.00    [QES1-52A]                                     Survey Year: 1987
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB311
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       0           1 TO 4
+       1           5 TO 9
+       2          10 TO 14
+       0          15 TO 19
+       2          20 TO 24
+       1          25 TO 29
+       3          30 TO 34
+       1          35 TO 39
+       8          40 TO 44
+       1          45 TO 49
+       5          50 TO 9999999: 50+
+  -------
+      24
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       1
+TOTAL =========>      25   VALID SKIP(-4)   10460     NON-INTERVIEW(-5)    2201
+ 
+Min:              7        Max:             96        Mean:               39.58
+ 
+Lead In: R23762.00[Default]
+Default Next Question: R23764.00
+--------------------------------------------------------------------------------
+R27709.00    [QES1-52A]                                     Survey Year: 1988
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: ESB.14
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB? (PROBE:)
+DURING WEEKS WHEN YOU ARE/WERE WORKING).
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       6           1 TO 4
+      13           5 TO 9
+      12          10 TO 14
+      15          15 TO 19
+      30          20 TO 24
+      12          25 TO 29
+      22          30 TO 34
+      12          35 TO 39
+      72          40 TO 44
+      14          45 TO 49
+      29          50 TO 9999999: 50+
+  -------
+     237
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       9
+TOTAL =========>     246   VALID SKIP(-4)   10219     NON-INTERVIEW(-5)    2221
+ 
+Min:              2        Max:             96        Mean:               33.58
+ 
+Lead In: R27708.00[Default]
+Default Next Question: R27710.00
+--------------------------------------------------------------------------------
+R30127.00    [QES1-52A]                                     Survey Year: 1989
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB425
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+(PROBE:) DURING WEEKS WHEN YOU ARE/WERE WORKING.
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       1           1 TO 4
+       7           5 TO 9
+       4          10 TO 14
+       4          15 TO 19
+       9          20 TO 24
+       5          25 TO 29
+       3          30 TO 34
+       4          35 TO 39
+      22          40 TO 44
+       8          45 TO 49
+      11          50 TO 9999999: 50+
+  -------
+      78
+ 
+Refusal(-1)            0
+Don't Know(-2)         1
+TOTAL =========>      79   VALID SKIP(-4)   10526     NON-INTERVIEW(-5)    2081
+ 
+Min:              4        Max:             96        Mean:               35.77
+ 
+Lead In: R30126.00[Default]
+Default Next Question: R30128.00
+--------------------------------------------------------------------------------
+R33401.00    [QES1-52A]                                     Survey Year: 1990
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB443
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+(PROBE): DURING WEEKS WHEN YOU ARE/WERE WORKING.
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       1           0
+       4           1 TO 4
+       1           5 TO 9
+       0          10 TO 14
+       2          15 TO 19
+       5          20 TO 24
+       4          25 TO 29
+       3          30 TO 34
+       0          35 TO 39
+      10          40 TO 44
+       5          45 TO 49
+       5          50 TO 9999999: 50+
+  -------
+      40
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       1
+TOTAL =========>      41   VALID SKIP(-4)   10395     NON-INTERVIEW(-5)    2250
+ 
+Min:              0        Max:             72        Mean:                31.7
+ 
+Lead In: R33400.00[Default]
+Default Next Question: R33402.00
+--------------------------------------------------------------------------------
+R36044.00    [QES1-52A]                                     Survey Year: 1991
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: QB437
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+(PROBE: DURING WEEKS WHEN YOU ARE/WERE WORKING).
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       0           1 TO 4
+       5           5 TO 9
+       1          10 TO 14
+       2          15 TO 19
+       4          20 TO 24
+       1          25 TO 29
+       3          30 TO 34
+       6          35 TO 39
+       1          40 TO 44
+       1          45 TO 49
+       4          50 TO 9999999: 50+
+  -------
+      28
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>      28   VALID SKIP(-4)    8990     NON-INTERVIEW(-5)    3668
+ 
+Min:              5        Max:             90        Mean:               30.79
+ 
+Lead In: R36043.00[Default]
+Default Next Question: R36045.00
+--------------------------------------------------------------------------------
+R39546.00    [QES1-52A]                                     Survey Year: 1992
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+ORIGINAL QUESTION NAME: Q7737
+ 
+HOW MANY HOURS PER WEEK (DO/DID) YOU USUALLY WORK AT THIS JOB?
+(PROBE): DURING WEEKS WHEN YOU ARE/WERE WORKING.
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R has employer not same as current job
+ 
+       0           0
+       3           1 TO 4
+       6           5 TO 9
+      10          10 TO 14
+       8          15 TO 19
+      16          20 TO 24
+       4          25 TO 29
+       7          30 TO 34
+       5          35 TO 39
+      19          40 TO 44
+       4          45 TO 49
+      11          50 TO 9999999: 50+
+  -------
+      93
+ 
+Refusal(-1)            0
+Don't Know(-2)         1
+Invalid Skip(-3)       1
+TOTAL =========>      95   VALID SKIP(-4)    8921     NON-INTERVIEW(-5)    3670
+ 
+Min:              1        Max:             60        Mean:               28.49
+ 
+Lead In: R39545.00[Default]
+Default Next Question: R39547.00
+--------------------------------------------------------------------------------
+R45829.00    [QES1-52A]                                     Survey Year: 1994
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did](1) you USUALLY work at this job?  (PROBE: 
+DURING WEEKS WHEN YOU [are/were] WORKING).
+ 
+UNIVERSE: R has employer
+ 
+       5           0
+      34           1 TO 4
+     109           5 TO 9
+     112          10 TO 14
+     147          15 TO 19
+     282          20 TO 24
+     156          25 TO 29
+     376          30 TO 34
+     579          35 TO 39
+    3773          40 TO 44
+     646          45 TO 49
+    1355          50 TO 99999999: 50+
+  -------
+    7574
+ 
+Refusal(-1)            2
+Don't Know(-2)        17
+TOTAL =========>    7593   VALID SKIP(-4)    1298     NON-INTERVIEW(-5)    3795
+ 
+Min:              0        Max:            168        Mean:               40.44
+ 
+Lead In: R45828.00[Default]
+Default Next Question: R45830.00
+--------------------------------------------------------------------------------
+R52671.00    [QES1-52A]                                     Survey Year: 1996
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did](1) you USUALLY work at this job?  (PROBE: 
+DURING WEEKS WHEN YOU [are/were] WORKING).
+ 
+UNIVERSE: R has employer
+ACTUAL HOURS
+ 
+       8           0
+      51           1 TO 4
+     125           5 TO 9
+     108          10 TO 14
+     149          15 TO 19
+     297          20 TO 24
+     155          25 TO 29
+     360          30 TO 34
+     555          35 TO 39
+    3744          40 TO 44
+     657          45 TO 49
+    1408          50 TO 99999999: 50+
+  -------
+    7617
+ 
+Refusal(-1)            3
+Don't Know(-2)        16
+TOTAL =========>    7636   VALID SKIP(-4)    1000     NON-INTERVIEW(-5)    4050
+ 
+Min:              0        Max:            168        Mean:               40.36
+ 
+Lead In: R52670.00[Default]
+Default Next Question: R52672.00
+--------------------------------------------------------------------------------
+R59126.00    [QES-52A.01]                                   Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did] you USUALLY work at this job?
+ 
+(PROBE: DURING WEEKS WHEN YOU [are/were] WORKING).
+ 
+UNIVERSE: R has employer
+ 
+      34           0
+      49           1 TO 4
+     121           5 TO 9
+     100          10 TO 14
+     153          15 TO 19
+     310          20 TO 24
+     153          25 TO 29
+     374          30 TO 34
+     530          35 TO 39
+    3739          40 TO 44
+     656          45 TO 49
+    1284          50 TO 99999999: 50+
+  -------
+    7503
+ 
+Refusal(-1)            0
+Don't Know(-2)        16
+TOTAL =========>    7519   VALID SKIP(-4)     880     NON-INTERVIEW(-5)    4287
+ 
+Min:              0        Max:            168        Mean:               39.84
+ 
+Lead In: R59114.00[Default]
+Default Next Question: R59138.00
+--------------------------------------------------------------------------------
+R65782.00    [QES-52A.01]                                   Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did] you usually work at this job?
+ 
+(PROBE: During the weeks when you [are/were] working).
+ 
+      10           0
+      38           1 TO 4
+     104           5 TO 9
+     101          10 TO 14
+     121          15 TO 19
+     267          20 TO 24
+     140          25 TO 29
+     311          30 TO 34
+     435          35 TO 39
+    3589          40 TO 44
+     725          45 TO 49
+    1382          50 TO 99999999: 50+
+  -------
+    7223
+ 
+Refusal(-1)            2
+Don't Know(-2)        17
+TOTAL =========>    7242   VALID SKIP(-4)     791     NON-INTERVIEW(-5)    4653
+ 
+Min:              0        Max:            168        Mean:               40.96
+ 
+Lead In: R65777.00[Default]
+Default Next Question: R65787.00
+--------------------------------------------------------------------------------
+R71929.00    [QES-52A.01]                                   Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did] you usually work at [thisjob/this assignment or
+on-call job/this business]?  (PROBE: During the weeks when you [are/were] 
+working).
+ 
+       6           0
+      40           1 TO 4
+      80           5 TO 9
+      52          10 TO 14
+     104          15 TO 19
+     220          20 TO 24
+     107          25 TO 29
+     271          30 TO 34
+     431          35 TO 39
+    3311          40 TO 44
+     593          45 TO 49
+    1009          50 TO 99999999: 50+
+  -------
+    6224
+ 
+Refusal(-1)            2
+Don't Know(-2)         6
+TOTAL =========>    6232   VALID SKIP(-4)    1492     NON-INTERVIEW(-5)    4962
+ 
+Min:              0        Max:            168        Mean:               40.45
+ 
+Lead In: R71924.00[Default]
+Default Next Question: R71934.00
+--------------------------------------------------------------------------------
+R78796.00    [QES-52A.01]                                   Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did] you usually work at [(this job/current 
+assignment or on-call job/business)]?
+ 
+(PROBE: During the weeks when you [are/were] working).
+ 
+      11           0
+      26           1 TO 4
+      45           5 TO 9
+      53          10 TO 14
+      94          15 TO 19
+     205          20 TO 24
+     117          25 TO 29
+     280          30 TO 34
+     418          35 TO 39
+    3266          40 TO 44
+     541          45 TO 49
+     903          50 TO 99999999: 50+
+  -------
+    5959
+ 
+Refusal(-1)            1
+Don't Know(-2)        17
+TOTAL =========>    5977   VALID SKIP(-4)    1684     NON-INTERVIEW(-5)    5025
+ 
+Min:              0        Max:            168        Mean:               40.34
+ 
+Lead In: R78791.00[Default]
+Default Next Question: R78801.00
+--------------------------------------------------------------------------------
+T01219.00    [QES-52A.01]                                   Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             HOURS PER WEEK WORKED JOB #01
+ 
+How many hours per week [do/did] you usually work at [(this job/current 
+assignment or on-call job/business)]?
+ 
+(PROBE: During the weeks when you [are/were] working).
+ 
+      11           0
+      26           1 TO 4
+      66           5 TO 9
+      40          10 TO 14
+      90          15 TO 19
+     182          20 TO 24
+     118          25 TO 29
+     273          30 TO 34
+     436          35 TO 39
+    3201          40 TO 44
+     523          45 TO 49
+     982          50 TO 99999999: 50+
+  -------
+    5948
+ 
+Refusal(-1)            1
+Don't Know(-2)        17
+TOTAL =========>    5966   VALID SKIP(-4)    1688     NON-INTERVIEW(-5)    5032
+ 
+Min:              0        Max:            140        Mean:               40.58
+ 
+Lead In: T01214.00[Default]
+Default Next Question: T01224.00

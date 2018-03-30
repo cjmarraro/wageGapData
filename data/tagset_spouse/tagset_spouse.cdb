@@ -1,0 +1,1079 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R01555.00    [Q13-18]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR
+ 
+ORIGINAL QUESTION NAME: S21Q02B
+ 
+DURING 1978, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, SALARY, 
+COMMISSIONS, OR TIPS, FROM ALL JOBS, BEFORE DEDUCTIONS FOR TAXES OR ANYTHING 
+ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R has had a child/is >= 18/currently enrolled in college/lives outside
+of parental home/has been married OR R currently on active duty in the 
+military/has served in the military in past calendar year; currently married
+ 
+     238           0
+       5           1 TO 99
+       8         100 TO 199
+       7         200 TO 299
+      12         300 TO 399
+      10         400 TO 499
+      14         500 TO 599
+      13         600 TO 699
+       6         700 TO 799
+      11         800 TO 899
+      13         900 TO 999
+     863        1000 TO 9999999: 1000+
+  -------
+    1200
+ 
+Refusal(-1)            6
+Don't Know(-2)       129
+Invalid Skip(-3)      28
+TOTAL =========>    1363   VALID SKIP(-4)   11323     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:          50000        Mean:              5466.1
+ 
+Lead In: R01554.00[Default]
+Default Next Question: R01556.00
+--------------------------------------------------------------------------------
+R03127.10    [Q13-18]                                       Survey Year: 1980
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: S17D3144
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE...DURING 1979, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FORM WAGES, 
+SALARY, COMMISSION, OR TIPS, FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE ?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R >= 18/has been married/has had a child/currently enrolled in 
+college/lives outside of parental home; currently married
+ 
+     425           0
+      93           1 TO 999
+      91        1000 TO 1999
+      74        2000 TO 2999
+      68        3000 TO 3999
+      66        4000 TO 4999
+      89        5000 TO 5999
+      80        6000 TO 6999
+      85        7000 TO 7999
+      99        8000 TO 8999
+      72        9000 TO 9999
+     227       10000 TO 14999
+      97       15000 TO 19999
+      38       20000 TO 24999
+      15       25000 TO 49999
+       3       50000 TO 9999999: 50000+
+  -------
+    1622
+ 
+Refusal(-1)            3
+Don't Know(-2)       113
+Invalid Skip(-3)       7
+TOTAL =========>    1745   VALID SKIP(-4)   10396     NON-INTERVIEW(-5)     545
+ 
+Min:              0        Max:          75001        Mean:             5887.26
+ 
+Lead In: R03126.00[Default]
+Default Next Question: R03128.00
+--------------------------------------------------------------------------------
+R04829.10    [Q13-18]                                       Survey Year: 1981
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: S12D2936
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE...DURING 1980, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS, FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R >= 18/has been married/has had a child/currently enrolled in 
+college/lives outside of parental home; currently married
+ 
+     574           0
+     103           1 TO 999
+      95        1000 TO 1999
+      96        2000 TO 2999
+     102        3000 TO 3999
+      86        4000 TO 4999
+     104        5000 TO 5999
+      98        6000 TO 6999
+     106        7000 TO 7999
+     106        8000 TO 8999
+      92        9000 TO 9999
+     361       10000 TO 14999
+     183       15000 TO 19999
+      64       20000 TO 24999
+      40       25000 TO 49999
+       1       50000 TO 9999999: 50000+
+  -------
+    2211
+ 
+Refusal(-1)           11
+Don't Know(-2)       168
+Invalid Skip(-3)       1
+TOTAL =========>    2391   VALID SKIP(-4)    9804     NON-INTERVIEW(-5)     491
+ 
+Min:              0        Max:          75001        Mean:             6629.84
+ 
+Lead In: R04828.00[Default]
+Default Next Question: R04830.00
+--------------------------------------------------------------------------------
+R07843.00    [Q13-18]                                       Survey Year: 1982
+  SECONDARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: S14D4417
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE DURING 1981, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R >= 18/has been married/has had a child/currently enrolled in 
+college/lives outside of parental home; currently married
+ 
+     667           0
+     110           1 TO 999
+     110        1000 TO 1999
+     109        2000 TO 2999
+     106        3000 TO 3999
+      91        4000 TO 4999
+     101        5000 TO 5999
+     124        6000 TO 6999
+      98        7000 TO 7999
+     127        8000 TO 8999
+     107        9000 TO 9999
+     449       10000 TO 14999
+     273       15000 TO 19999
+     141       20000 TO 24999
+      91       25000 TO 49999
+      11       50000 TO 9999999: 50000+
+  -------
+    2715
+ 
+Refusal(-1)            9
+Don't Know(-2)       184
+Invalid Skip(-3)       8
+TOTAL =========>    2916   VALID SKIP(-4)    9207     NON-INTERVIEW(-5)     563
+ 
+Min:              0        Max:          75001        Mean:             7914.82
+ 
+Lead In: R07842.00[Default]
+Default Next Question: R07844.00
+--------------------------------------------------------------------------------
+R10240.01    [Q13-5_TRUNC_REVISED]                          Survey Year: 1983
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME FROM WAGES AND SALARY IN PAST CALENDAR YEAR (TRUNC) 
+             (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q3863
+ 
+NOT COUNTING ANY MONEY YOU RECEIVED FROM YOUR MILITARY SERVICE... DURING 1982, 
+HOW MUCH DID YOU RECEIVE FROM WAGES, SALARY, COMMISSIONS, OR TIPS FROM ALL 
+(OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: All
+ 
+       0           0
+    1325           1 TO 999
+     960        1000 TO 1999
+     779        2000 TO 2999
+     655        3000 TO 3999
+     536        4000 TO 4999
+     531        5000 TO 5999
+     520        6000 TO 6999
+     440        7000 TO 7999
+     460        8000 TO 8999
+     440        9000 TO 9999
+    1496       10000 TO 14999
+     641       15000 TO 19999
+     251       20000 TO 24999
+     194       25000 TO 49999
+       0       50000 TO 9999999: 50000+
+  -------
+    9228
+ 
+Refusal(-1)           39
+Don't Know(-2)        80
+Invalid Skip(-3)    2874
+TOTAL =========>   12221   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     465
+ 
+Min:              2        Max:          31519        Mean:             7065.78
+ 
+Revised topcode: Top 2% of values are replaced with the group average.
+ 
+Lead In: None.
+Default Next Question: R10241.00
+--------------------------------------------------------------------------------
+R14107.01    [Q13-5_TRUNC_REVISED]                          Survey Year: 1984
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME FROM WAGES AND SALARY IN PAST CALENDAR YEAR (TRUNC) 
+             (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q5610
+ 
+NOT COUNTING ANY MONEY YOU RECEIVED FROM YOUR MILITARY SERVICE DURING 1983, HOW 
+MUCH DID YOU RECEIVE FROM WAGES, SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) 
+JOBS, BEFORE DEDUCTIONS FOR TAXES OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: All
+ 
+       0           0
+    1030           1 TO 999
+     791        1000 TO 1999
+     695        2000 TO 2999
+     650        3000 TO 3999
+     518        4000 TO 4999
+     515        5000 TO 5999
+     489        6000 TO 6999
+     443        7000 TO 7999
+     468        8000 TO 8999
+     431        9000 TO 9999
+    1729       10000 TO 14999
+     878       15000 TO 19999
+     374       20000 TO 24999
+     292       25000 TO 49999
+       0       50000 TO 9999999: 50000+
+  -------
+    9303
+ 
+Refusal(-1)           41
+Don't Know(-2)        87
+Invalid Skip(-3)    2638
+TOTAL =========>   12069   VALID SKIP(-4)       0     NON-INTERVIEW(-5)     617
+ 
+Min:              5        Max:          36574        Mean:             8318.04
+ 
+Revised topcode: Top 2% of values are replaced with the group average.
+ 
+Lead In: None.
+Default Next Question: R14108.00
+--------------------------------------------------------------------------------
+R17807.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1985
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q4932
+ 
+(NOT COUNTING ANY MONEY YOUR (HUSBAND/ WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE) DURING 1984, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+       0           0
+     117           1 TO 999
+     100        1000 TO 1999
+     124        2000 TO 2999
+      97        3000 TO 3999
+      84        4000 TO 4999
+     103        5000 TO 5999
+     120        6000 TO 6999
+     115        7000 TO 7999
+     132        8000 TO 8999
+     110        9000 TO 9999
+     650       10000 TO 14999
+     457       15000 TO 19999
+     297       20000 TO 24999
+     331       25000 TO 49999
+      59       50000 TO 9999999: 50000+
+  -------
+    2896
+ 
+Refusal(-1)           31
+Don't Know(-2)       171
+Invalid Skip(-3)     732
+TOTAL =========>    3830   VALID SKIP(-4)    7064     NON-INTERVIEW(-5)    1792
+ 
+Min:              8        Max:          52136        Mean:            13798.47
+ 
+Revised topcode: Top 2% of values are replaced with the group average.
+ 
+Lead In: None.
+Default Next Question: R17808.00
+--------------------------------------------------------------------------------
+R21438.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q6624
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/ WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE/DURING 1985, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+       0           0
+     125           1 TO 999
+     122        1000 TO 1999
+     110        2000 TO 2999
+      96        3000 TO 3999
+      90        4000 TO 4999
+     109        5000 TO 5999
+     110        6000 TO 6999
+     108        7000 TO 7999
+     131        8000 TO 8999
+      96        9000 TO 9999
+     722       10000 TO 14999
+     543       15000 TO 19999
+     373       20000 TO 24999
+     477       25000 TO 49999
+      68       50000 TO 9999999: 50000+
+  -------
+    3280
+ 
+Refusal(-1)           31
+Don't Know(-2)       206
+Invalid Skip(-3)     748
+TOTAL =========>    4265   VALID SKIP(-4)    6390     NON-INTERVIEW(-5)    2031
+ 
+Min:             34        Max:          57378        Mean:            15063.93
+ 
+Revised topcode: Top 2% of values are replaced with the group average.
+ 
+Lead In: None.
+Default Next Question: R21439.00
+--------------------------------------------------------------------------------
+R23525.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1987
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q1618
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/ WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE/DURING 1986, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+       0           0
+      76           1 TO 999
+      62        1000 TO 1999
+     102        2000 TO 2999
+     108        3000 TO 3999
+      67        4000 TO 4999
+      94        5000 TO 5999
+     106        6000 TO 6999
+      95        7000 TO 7999
+     122        8000 TO 8999
+      99        9000 TO 9999
+     707       10000 TO 14999
+     621       15000 TO 19999
+     487       20000 TO 24999
+     680       25000 TO 49999
+      72       50000 TO 9999999: 50000+
+  -------
+    3498
+ 
+Refusal(-1)           37
+Don't Know(-2)       231
+Invalid Skip(-3)     830
+TOTAL =========>    4596   VALID SKIP(-4)    5889     NON-INTERVIEW(-5)    2201
+ 
+Min:             10        Max:          87314        Mean:            17683.95
+ 
+Revised topcode R23525.00.  Top 2% of values are replaced with the group 
+average.
+ 
+Lead In: None.
+Default Next Question: R23526.00
+--------------------------------------------------------------------------------
+R27247.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1988
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q15.7B
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/ WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE/DURING 1987, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+       0           0
+      78           1 TO 999
+      65        1000 TO 1999
+      93        2000 TO 2999
+      73        3000 TO 3999
+      62        4000 TO 4999
+      90        5000 TO 5999
+     104        6000 TO 6999
+      93        7000 TO 7999
+     118        8000 TO 8999
+      88        9000 TO 9999
+     721       10000 TO 14999
+     652       15000 TO 19999
+     555       20000 TO 24999
+     887       25000 TO 49999
+     112       50000 TO 9999999: 50000+
+  -------
+    3791
+ 
+Refusal(-1)           38
+Don't Know(-2)       234
+Invalid Skip(-3)     945
+TOTAL =========>    5008   VALID SKIP(-4)    5457     NON-INTERVIEW(-5)    2221
+ 
+Min:            100        Max:          72619        Mean:            18894.17
+ 
+Revised topcode for R27247.00. Top 2% of values are replaced with the group 
+average.
+ 
+Lead In: None.
+Default Next Question: R27248.00
+--------------------------------------------------------------------------------
+R29736.00    [Q13-18]                                       Survey Year: 1989
+  SECONDARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: Q2317
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER)
+MILITARY SERVICE/DURING 1988, HOW MUCH DID YOUR (HUSBAND/WIFE)
+RECEIVE FROM WAGES, SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER)
+JOBS, BEFORE DEDUCTIONS FOR TAXES OR ANYTHING ELSE?
+ 
+NOTE: TRUNCATED VALUES ARE EQUAL TO THE AVERAGE VALUE OF ALL
+RESPONDENTS WHO ARE U.S. RESIDENTS AND WHO HAVE VALUES EXCEEDING THE
+TRADITIONAL TRUNCATION LEVEL OF 100,001 FOR THIS ITEM. PERSONS WITH
+OUT-OF-RANGE CODE 999,996 WERE ASSIGNED THIS VALUE AS AN APPROXIMATION.
+SINCE PERSONS WITH OUT-OF-RANGE CODES HAVE VALUES GREATER THAN THIS
+CODE, OUR AVERAGE FOR TOP-CODED RESPONDENTS WILL BE TOO LOW TO THE
+EXTENT THAT OUT-OF-RANGE CODES ARE PRESENT IN THE RAW DATA. OVERSEAS
+RESPONDENTS WHOSE DOLLAR INCOME COULD NOT BE DETERMINED ARE CODED -3.
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+    1005           0
+      72           1 TO 999
+      69        1000 TO 1999
+      66        2000 TO 2999
+      69        3000 TO 3999
+      77        4000 TO 4999
+      78        5000 TO 5999
+      88        6000 TO 6999
+      88        7000 TO 7999
+     123        8000 TO 8999
+      94        9000 TO 9999
+     671       10000 TO 14999
+     658       15000 TO 19999
+     571       20000 TO 24999
+    1070       25000 TO 49999
+     187       50000 TO 9999999: 50000+
+  -------
+    4986
+ 
+Refusal(-1)           70
+Don't Know(-2)       217
+Invalid Skip(-3)      16
+TOTAL =========>    5289   VALID SKIP(-4)    5316     NON-INTERVIEW(-5)    2081
+ 
+Min:              0        Max:         427830        Mean:            18541.86
+ 
+Lead In: R29735.00[Default]
+Default Next Question: R29737.00
+--------------------------------------------------------------------------------
+R32816.00    [Q13-18]                                       Survey Year: 1990
+  SECONDARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: Q6317
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER) MILITARY 
+SERVICE.../DURING 1989, HOW MUCH DID YOUR (HUSBAND/WIFE) RECEIVE FROM WAGES, 
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE DEDUCTIONS FOR TAXES 
+OR ANYTHING ELSE?
+ 
+NOTE: TRUNCATED VALUES ARE EQUAL TO THE AVERAGE VALUE OF ALL
+RESPONDENTS WHO ARE U.S. RESIDENTS AND WHO HAVE VALUES EXCEEDING THE TRADITIONAL
+TRUNCATION LEVEL OF 100,001 FOR THIS ITEM. PERSONS WITH OUT-OF-RANGE CODE 999,
+996 WERE ASSIGNED THIS VALUE AS AN APPROXIMATION. SINCE PERSONS WITH 
+OUT-OF-RANGE CODES HAVE VALUES GREATER THAN THIS CODE, OUR AVERAGE FOR TOP-CODED
+RESPONDENTS WILL BE TOO LOW TO THE EXTENT THAT OUT-OF-RANGE CODES ARE PRESENT IN
+THE RAW DATA. OVERSEAS
+RESPONDENTS WHOSE DOLLAR INCOME COULD NOT BE DETERMINED ARE CODED -3.
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+     984           0
+      64           1 TO 999
+      67        1000 TO 1999
+      62        2000 TO 2999
+      66        3000 TO 3999
+      66        4000 TO 4999
+      69        5000 TO 5999
+      77        6000 TO 6999
+      83        7000 TO 7999
+      93        8000 TO 8999
+      78        9000 TO 9999
+     618       10000 TO 14999
+     640       15000 TO 19999
+     604       20000 TO 24999
+    1295       25000 TO 49999
+     235       50000 TO 9999999: 50000+
+  -------
+    5101
+ 
+Refusal(-1)           65
+Don't Know(-2)       199
+Invalid Skip(-3)      24
+TOTAL =========>    5389   VALID SKIP(-4)    5047     NON-INTERVIEW(-5)    2250
+ 
+Min:              0        Max:         223408        Mean:            18628.65
+ 
+Lead In: R32815.00[Default]
+Default Next Question: R32817.00
+--------------------------------------------------------------------------------
+R35718.01    [Q11-97_REVISED]                               Survey Year: 1991
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF PARTNER FROM WAGES AND SALARY IN PAST CALENDAR YEAR
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q2427
+ 
+NOT COUNTING ANY MONEY (PARTNER) RECEIVED FROM (HIS/HER) MILITARY
+SERVICE.../DURING 1990, HOW MUCH DID (PARTNER) RECEIVE FROM WAGES,
+SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER) JOBS, BEFORE
+DEDUCTIONS FOR TAXES OR ANYTHING ELSE?
+ 
+NOTE: TRUNCATED VALUES ARE EQUAL TO THE AVERAGE VALUE OF ALL
+RESPONDENTS WHO ARE U.S. RESIDENTS AND WHO HAVE VALUES EXCEEDING THE
+TRADITIONAL TRUNCATION LEVEL OF 100,001 FOR THIS ITEM. PERSONS WITH
+OUT-OF-RANGE CODE 999,996 WERE ASSIGNED THIS VALUE AS AN APPROXIMATION.
+SINCE PERSONS WITH OUT-OF-RANGE CODES HAVE VALUES GREATER THAN THIS
+CODE, OUR AVERAGE FOR TOP-CODED RESPONDENTS WILL BE TOO LOW TO THE
+EXTENT THAT OUT-OF-RANGE CODES ARE PRESENT IN THE RAW DATA. OVERSEAS
+RESPONDENTS WHOSE DOLLAR INCOME COULD NOT BE DETERMINED ARE CODED -3.
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R lives with opposite sex adult as a partner
+ 
+       0           0
+      13           1 TO 999
+       9        1000 TO 1999
+      13        2000 TO 2999
+       6        3000 TO 3999
+       7        4000 TO 4999
+      14        5000 TO 5999
+      12        6000 TO 6999
+      10        7000 TO 7999
+      21        8000 TO 8999
+       8        9000 TO 9999
+      89       10000 TO 14999
+      73       15000 TO 19999
+      38       20000 TO 24999
+     119       25000 TO 49999
+      13       50000 TO 9999999: 50000+
+  -------
+     445
+ 
+Refusal(-1)            9
+Don't Know(-2)       185
+Invalid Skip(-3)     171
+TOTAL =========>     810   VALID SKIP(-4)    8208     NON-INTERVIEW(-5)    3668
+ 
+Min:            100        Max:         191656        Mean:            21236.47
+ 
+Revised topcode.  Top 2% of values are replaced with the group average.
+ 
+Lead In: None.
+Default Next Question: R35719.00
+--------------------------------------------------------------------------------
+R38993.00    [Q13-18]                                       Survey Year: 1992
+  SECONDARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+ORIGINAL QUESTION NAME: Q6419
+ 
+NOT COUNTING ANY MONEY YOUR (HUSBAND/WIFE) RECEIVED FROM (HIS/HER)
+MILITARY SERVICE.../DURING 1991, HOW MUCH DID YOUR (HUSBAND/WIFE)
+RECEIVE FROM WAGES, SALARY, COMMISSIONS, OR TIPS FROM ALL (OTHER)
+JOBS, BEFORE DEDUCTIONS FOR TAXES OR ANYTHING ELSE?
+ 
+NOTE: TRUNCATED VALUES ARE EQUAL TO THE AVERAGE VALUE OF ALL
+RESPONDENTS WHO ARE U.S. RESIDENTS AND WHO HAVE VALUES EXCEEDING THE
+TRADITIONAL TRUNCATION LEVEL OF 100,001 FOR THIS ITEM. PERSONS WITH
+OUT-OF-RANGE CODE 99, 999,996 WERE ASSIGNED THIS VALUE AS A
+APPROXIMATION. SINCE PERSONS WITH OUT-OF-RANGE CODES HAVE VALUES GREATER
+THAN THIS CODE, OUR AVERAGE FOR TOP-CODED RESPONDENTS WILL BE TOO LOW
+LOW TO THE EXTENT THAT OUT-OF-RANGE CODES ARE PRESENT IN THE RAW DATA
+OVERSEAS RESPONDENTS WHOSE DOLLAR INCOME COULD NOT BE DETERMINED ARE
+CODED -3.
+ 
+ACTUAL DOLLARS
+ 
+UNIVERSE: R currently married
+ 
+     938           0
+      36           1 TO 999
+      41        1000 TO 1999
+      64        2000 TO 2999
+      52        3000 TO 3999
+      54        4000 TO 4999
+      65        5000 TO 5999
+      82        6000 TO 6999
+      62        7000 TO 7999
+      84        8000 TO 8999
+      63        9000 TO 9999
+     417       10000 TO 14999
+     522       15000 TO 19999
+     544       20000 TO 24999
+    1249       25000 TO 49999
+     285       50000 TO 9999999: 50000+
+  -------
+    4558
+ 
+Refusal(-1)           78
+Don't Know(-2)       163
+Invalid Skip(-3)       3
+TOTAL =========>    4802   VALID SKIP(-4)    4214     NON-INTERVIEW(-5)    3670
+ 
+Min:              0        Max:         209507        Mean:            20547.13
+ 
+Lead In: R38992.00[Default]
+Default Next Question: R38994.00
+--------------------------------------------------------------------------------
+R43144.01    [R4314401_REVISED]                             Survey Year: 1993
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+ORIGINAL QUESTION NAME: Q11-18
+ 
+During 1992, how much did your [Text fill based on respondent's gender] receive 
+from wages, salary, commissions, or tips from all (other) jobs, before 
+deductions for taxes oranything else?
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+ 
+       0           0
+      47           1 TO 999
+      42        1000 TO 1999
+      39        2000 TO 2999
+      54        3000 TO 3999
+      49        4000 TO 4999
+      51        5000 TO 5999
+      75        6000 TO 6999
+      62        7000 TO 7999
+      72        8000 TO 8999
+      67        9000 TO 9999
+     409       10000 TO 14999
+     490       15000 TO 19999
+     437       20000 TO 24999
+    1333       25000 TO 49999
+     346       50000 TO 9999999: 50000+
+  -------
+    3573
+ 
+Refusal(-1)           93
+Don't Know(-2)       225
+Invalid Skip(-3)     914
+TOTAL =========>    4805   VALID SKIP(-4)    4206     NON-INTERVIEW(-5)    3675
+ 
+Min:              5        Max:         147486        Mean:            27379.75
+ 
+Revised topcode for R43144.00.  Top 2% of values are replaced with the group 
+average.
+ 
+Lead In: None.
+Default Next Question: R43146.00
+--------------------------------------------------------------------------------
+R49960.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1994
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+During 1993, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions,
+or tips from all (other) jobs, before deductions for taxes or anything
+else?
+ 
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+Revised topcode.  Top 2% of values are replaced with the group average.
+ 
+       0           0
+      43           1 TO 999
+      47        1000 TO 1999
+      50        2000 TO 2999
+      51        3000 TO 3999
+      57        4000 TO 4999
+      57        5000 TO 5999
+      62        6000 TO 6999
+      49        7000 TO 7999
+      87        8000 TO 8999
+      54        9000 TO 9999
+     490       10000 TO 14999
+     531       15000 TO 19999
+     522       20000 TO 24999
+    1429       25000 TO 49999
+     432       50000 TO 99999999: 50000+
+  -------
+    3961
+ 
+Refusal(-1)          116
+Don't Know(-2)       395
+Invalid Skip(-3)    1028
+TOTAL =========>    5500   VALID SKIP(-4)    3391     NON-INTERVIEW(-5)    3795
+ 
+Min:            200        Max:         135553        Mean:            27839.12
+ 
+Lead In: None.
+Default Next Question: R49962.00
+--------------------------------------------------------------------------------
+R56508.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1996
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+During 1995, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+ 
+NOTE: TRUNCATED VALUES ARE APPLIED TO THE TOP APPROXIMATELY 2 PERCENT OF 
+RESPONDENTS WITH VALID NON-MISSING RESPONSES. THE LOWEST VALUE FOR THE TOP 2 
+PERCENT OF CASES IS USED AS THE TRUNCATION LEVEL ($100,000 FOR THIS VARIABLE). 
+VALUES FOR ALL CASES AT OR OVER THAT LEVEL ARE AVERAGED. THAT AVERAGE IS THEN 
+ASSIGNED TO EACH OF THE TOP 2 PERCENT OF CASES. OVERSEAS RESPONDENTS WHOSE 
+DOLLAR INCOME COULD NOT BE DETERMINED ARE CODED -3.
+Revised topcode.  Top 2% of values are replaced with the group average.
+ 
+       0           0
+      35           1 TO 999
+      32        1000 TO 1999
+      60        2000 TO 2999
+      62        3000 TO 3999
+      47        4000 TO 4999
+      55        5000 TO 5999
+      46        6000 TO 6999
+      56        7000 TO 7999
+      70        8000 TO 8999
+      53        9000 TO 9999
+     442       10000 TO 14999
+     470       15000 TO 19999
+     470       20000 TO 24999
+    1527       25000 TO 49999
+     594       50000 TO 99999999: 50000+
+  -------
+    4019
+ 
+Refusal(-1)          106
+Don't Know(-2)       395
+Invalid Skip(-3)     898
+TOTAL =========>    5418   VALID SKIP(-4)    3218     NON-INTERVIEW(-5)    4050
+ 
+Min:             30        Max:         192785        Mean:            31684.15
+ 
+Lead In: None.
+Default Next Question: R56510.00
+--------------------------------------------------------------------------------
+R63749.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+During 1997, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+NOTE:  Revised topcode.  Top 2% of values are replaced with the group average.
+ 
+       0           0
+      41           1 TO 999
+      44        1000 TO 1999
+      46        2000 TO 2999
+      44        3000 TO 3999
+      30        4000 TO 4999
+      43        5000 TO 5999
+      44        6000 TO 6999
+      46        7000 TO 7999
+      50        8000 TO 8999
+      33        9000 TO 9999
+     352       10000 TO 14999
+     389       15000 TO 19999
+     407       20000 TO 24999
+    1494       25000 TO 49999
+     751       50000 TO 99999999: 50000+
+  -------
+    3814
+ 
+Refusal(-1)          125
+Don't Know(-2)       397
+Invalid Skip(-3)     921
+TOTAL =========>    5257   VALID SKIP(-4)    3142     NON-INTERVIEW(-5)    4287
+ 
+Min:              6        Max:         212480        Mean:            35589.33
+ 
+Lead In: None.
+Default Next Question: R63750.00
+--------------------------------------------------------------------------------
+R69178.01    [Q13-18_TRUNC_REVISED]                         Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC) (REVISED)
+ 
+During 1999, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+NOTE:  Revised topcode.  Top 2% of values are replaced with the group average.
+ 
+       0           0
+      33           1 TO 999
+      24        1000 TO 1999
+      32        2000 TO 2999
+      23        3000 TO 3999
+      35        4000 TO 4999
+      66        5000 TO 5999
+      32        6000 TO 6999
+      34        7000 TO 7999
+      47        8000 TO 8999
+      29        9000 TO 9999
+     251       10000 TO 14999
+     330       15000 TO 19999
+     387       20000 TO 24999
+    1360       25000 TO 49999
+     873       50000 TO 99999999: 50000+
+  -------
+    3556
+ 
+Refusal(-1)          150
+Don't Know(-2)       456
+Invalid Skip(-3)     774
+TOTAL =========>    4936   VALID SKIP(-4)    3097     NON-INTERVIEW(-5)    4653
+ 
+Min:              4        Max:         242361        Mean:            39357.53
+ 
+Lead In: None.
+Default Next Question: R69179.00
+--------------------------------------------------------------------------------
+R76173.00    [Q13-18_TRUNC]                                 Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+During 2001, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+(INTERVIEWER: PRESS <F6> FOR DON'T KNOW)
+ 
+     756           0
+      24           1 TO 999
+      23        1000 TO 1999
+      28        2000 TO 2999
+      34        3000 TO 3999
+      31        4000 TO 4999
+      42        5000 TO 5999
+      37        6000 TO 6999
+      43        7000 TO 7999
+      33        8000 TO 8999
+      26        9000 TO 9999
+     246       10000 TO 14999
+     302       15000 TO 19999
+     312       20000 TO 24999
+    1372       25000 TO 49999
+    1013       50000 TO 99999999: 50000+
+  -------
+    4322
+ 
+Refusal(-1)          116   (Go To R76174.00)
+Don't Know(-2)       372   (Go To R76174.00)
+TOTAL =========>    4810   VALID SKIP(-4)    2914     NON-INTERVIEW(-5)    4962
+ 
+Min:              0        Max:         266687        Mean:            35717.53
+ 
+Lead In: R76162.00[Default] R76167.00[Default] R76168.00[Default] 
+         R77300.00[Default] R76169.00[Default] R76166.00[Default] 
+         R76171.00[Default] R76164.00[Default]  R76165.00[1:1]
+Default Next Question: R76181.00
+--------------------------------------------------------------------------------
+R83258.00    [Q13-18_TRUNC]                                 Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+During 2003, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+     684           0
+      15           1 TO 999
+      15        1000 TO 1999
+      26        2000 TO 2999
+      28        3000 TO 3999
+      20        4000 TO 4999
+      38        5000 TO 5999
+      25        6000 TO 6999
+      40        7000 TO 7999
+      33        8000 TO 8999
+      22        9000 TO 9999
+     202       10000 TO 14999
+     248       15000 TO 19999
+     252       20000 TO 24999
+    1199       25000 TO 49999
+    1108       50000 TO 999999999: 50000+
+  -------
+    3955
+ 
+Refusal(-1)          127   (Go To R83263.00)
+Don't Know(-2)       205   (Go To R83266.00)
+TOTAL =========>    4287   VALID SKIP(-4)    3374     NON-INTERVIEW(-5)    5025
+ 
+Min:              0        Max:         309409        Mean:            39279.14
+ 
+Lead In: None.
+Default Next Question: R83266.00
+--------------------------------------------------------------------------------
+T09208.00    [Q13-18_TRUNC]                                 Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             TOTAL INCOME OF SPOUSE FROM WAGES AND SALARY IN PAST CALENDAR YEAR 
+             (TRUNC)
+ 
+During 2005, how much did [Spouse/partner's name] receive from wages, salary, 
+commissions, or tips from all (other) jobs, before deductions for taxes or 
+anything else?
+ 
+     687           0
+      17           1 TO 999
+      24        1000 TO 1999
+      17        2000 TO 2999
+      24        3000 TO 3999
+      25        4000 TO 4999
+      29        5000 TO 5999
+      19        6000 TO 6999
+      21        7000 TO 7999
+      29        8000 TO 8999
+      19        9000 TO 9999
+     162       10000 TO 14999
+     219       15000 TO 19999
+     258       20000 TO 24999
+    1150       25000 TO 49999
+    1157       50000 TO 99999999: 50000+
+  -------
+    3857
+ 
+Refusal(-1)          143   (Go To T09212.00)
+Don't Know(-2)       198   (Go To T09209.00)
+TOTAL =========>    4198   VALID SKIP(-4)    3456     NON-INTERVIEW(-5)    5032
+ 
+Min:              0        Max:         299480        Mean:            41215.37
+ 
+Lead In: None.
+Default Next Question: T09215.00

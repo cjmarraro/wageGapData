@@ -1,0 +1,777 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R00470.10    [CPSHRP]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+UNIVERSE: Unreachable in current round
+ 
+     127           1 TO 99
+     348         100 TO 199
+    1545         200 TO 299
+    1494         300 TO 399
+     529         400 TO 499
+     249         500 TO 599
+     154         600 TO 699
+      89         700 TO 799
+      44         800 TO 899
+      23         900 TO 999
+      55        1000 TO 9999999: 1000+
+  -------
+    4657
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    4657   VALID SKIP(-4)    8029     NON-INTERVIEW(-5)       0
+ 
+Min:              3        Max:        3333433        Mean:              1106.6
+ 
+Lead In: None.
+Default Next Question: R00471.00
+--------------------------------------------------------------------------------
+R02637.10    [CPSHRP]                                       Survey Year: 1980
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+UNIVERSE: Unreachable in current round
+ 
+       0           0
+      77           1 TO 99
+     248         100 TO 199
+     725         200 TO 299
+    2423         300 TO 399
+     968         400 TO 499
+     480         500 TO 599
+     242         600 TO 699
+     146         700 TO 799
+      81         800 TO 899
+      57         900 TO 999
+     115        1000 TO 9999999: 1000+
+  -------
+    5562
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    5562   VALID SKIP(-4)    6579     NON-INTERVIEW(-5)     545
+ 
+Min:              3        Max:           3200        Mean:              403.26
+ 
+Lead In: None.
+Default Next Question: R02638.00
+--------------------------------------------------------------------------------
+R04468.10    [CPSHRP]                                       Survey Year: 1981
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+UNIVERSE: Unreachable in current round
+ 
+       0           0
+      63           1 TO 99
+     176         100 TO 199
+     409         200 TO 299
+    2345         300 TO 399
+    1268         400 TO 499
+     772         500 TO 599
+     396         600 TO 699
+     236         700 TO 799
+     164         800 TO 899
+      94         900 TO 999
+     207        1000 TO 9999999: 1000+
+  -------
+    6130
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6130   VALID SKIP(-4)    6065     NON-INTERVIEW(-5)     491
+ 
+Min:              3        Max:          25000        Mean:              464.86
+ 
+Lead In: None.
+Default Next Question: R04469.00
+--------------------------------------------------------------------------------
+R07025.10    [CPSHRP]                                       Survey Year: 1982
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+UNIVERSE: Unreachable in current round
+ 
+       0           0
+     156           1 TO 99
+     249         100 TO 199
+     472         200 TO 299
+    3014         300 TO 399
+    1819         400 TO 499
+    1193         500 TO 599
+     676         600 TO 699
+     428         700 TO 799
+     296         800 TO 899
+     167         900 TO 999
+     446        1000 TO 9999999: 1000+
+  -------
+    8916
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8916   VALID SKIP(-4)    3207     NON-INTERVIEW(-5)     563
+ 
+Min:             13        Max:           7500        Mean:              490.06
+ 
+Lead In: None.
+Default Next Question: R07026.00
+--------------------------------------------------------------------------------
+R09456.10    [CPSHRP]                                       Survey Year: 1983
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+UNIVERSE: R who did not do any work outside the house last week; have been 
+looking for work; has done some work since DLI; formerly self-employed
+ 
+       0           0
+     114           1 TO 99
+     257         100 TO 199
+     413         200 TO 299
+    2473         300 TO 399
+    1872         400 TO 499
+    1301         500 TO 599
+     835         600 TO 699
+     520         700 TO 799
+     366         800 TO 899
+     206         900 TO 999
+     581        1000 TO 9999999: 1000+
+  -------
+    8938
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8938   VALID SKIP(-4)    3283     NON-INTERVIEW(-5)     465
+ 
+Min:             10        Max:          23250        Mean:              525.25
+ 
+Lead In: R09456.00[Default]  R09454.00[3:3]
+Default Next Question: R09457.00
+--------------------------------------------------------------------------------
+R12560.10    [CPSHRP]                                       Survey Year: 1984
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       1           0
+     143           1 TO 99
+     203         100 TO 199
+     365         200 TO 299
+    2036         300 TO 399
+    1714         400 TO 499
+    1443         500 TO 599
+    1033         600 TO 699
+     621         700 TO 799
+     483         800 TO 899
+     259         900 TO 999
+     800        1000 TO 9999999: 1000+
+  -------
+    9101
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    9101   VALID SKIP(-4)    2968     NON-INTERVIEW(-5)     617
+ 
+Min:              0        Max:          34500        Mean:               570.1
+ 
+Lead In: R12560.00[Default]
+Default Next Question: R12561.00
+--------------------------------------------------------------------------------
+R16508.10    [CPSHRP]                                       Survey Year: 1985
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+     101           1 TO 99
+     160         100 TO 199
+     305         200 TO 299
+    1558         300 TO 399
+    1455         400 TO 499
+    1425         500 TO 599
+    1057         600 TO 699
+     725         700 TO 799
+     538         800 TO 899
+     331         900 TO 999
+     988        1000 TO 9999999: 1000+
+  -------
+    8643
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8643   VALID SKIP(-4)    2251     NON-INTERVIEW(-5)    1792
+ 
+Min:             19        Max:           9000        Mean:              615.86
+ 
+Lead In: R16508.00[Default]
+Default Next Question: R16509.00
+--------------------------------------------------------------------------------
+R19234.10    [CPSHRP]                                       Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+      73           1 TO 99
+     144         100 TO 199
+     235         200 TO 299
+    1217         300 TO 399
+    1305         400 TO 499
+    1313         500 TO 599
+    1135         600 TO 699
+     798         700 TO 799
+     670         800 TO 899
+     422         900 TO 999
+    1371        1000 TO 9999999: 1000+
+  -------
+    8683
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8683   VALID SKIP(-4)    1972     NON-INTERVIEW(-5)    2031
+ 
+Min:             14        Max:          25000        Mean:              679.58
+ 
+Lead In: R19234.00[Default]
+Default Next Question: R19235.00
+--------------------------------------------------------------------------------
+R23182.10    [CPSHRP]                                       Survey Year: 1987
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       1           0
+      68           1 TO 99
+      98         100 TO 199
+     186         200 TO 299
+     926         300 TO 399
+    1068         400 TO 499
+    1186         500 TO 599
+    1053         600 TO 699
+     888         700 TO 799
+     726         800 TO 899
+     497         900 TO 999
+    1939        1000 TO 9999999: 1000+
+  -------
+    8636
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8636   VALID SKIP(-4)    1849     NON-INTERVIEW(-5)    2201
+ 
+Min:              0        Max:        2550000        Mean:             1535.14
+ 
+Lead In: R23182.00[Default]
+Default Next Question: R23183.00
+--------------------------------------------------------------------------------
+R25260.10    [CPSHRP]                                       Survey Year: 1988
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       1           0
+      43           1 TO 99
+     100         100 TO 199
+     148         200 TO 299
+     640         300 TO 399
+     948         400 TO 499
+    1137         500 TO 599
+    1028         600 TO 699
+     883         700 TO 799
+     726         800 TO 899
+     566         900 TO 999
+    2500        1000 TO 9999999: 1000+
+  -------
+    8720
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8720   VALID SKIP(-4)    1745     NON-INTERVIEW(-5)    2221
+ 
+Min:              0        Max:        2600000        Mean:             1635.43
+ 
+Lead In: R25260.00[Default]
+Default Next Question: R25261.00
+--------------------------------------------------------------------------------
+R29250.10    [CPSHRP]                                       Survey Year: 1989
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       2           0
+      62           1 TO 99
+     108         100 TO 199
+     129         200 TO 299
+     486         300 TO 399
+     805         400 TO 499
+    1059         500 TO 599
+    1003         600 TO 699
+     899         700 TO 799
+     812         800 TO 899
+     562         900 TO 999
+    2797        1000 TO 9999999: 1000+
+  -------
+    8724
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8724   VALID SKIP(-4)    1881     NON-INTERVIEW(-5)    2081
+ 
+Min:              0        Max:        3300000        Mean:             2621.58
+ 
+Lead In: R29250.00[Default]
+Default Next Question: R29251.00
+--------------------------------------------------------------------------------
+R31278.00    [CPSHRP]                                       Survey Year: 1990
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       5           0
+      69           1 TO 99
+      84         100 TO 199
+     115         200 TO 299
+     347         300 TO 399
+     747         400 TO 499
+     897         500 TO 599
+     930         600 TO 699
+     806         700 TO 799
+     842         800 TO 899
+     578         900 TO 999
+    3229        1000 TO 9999999: 1000+
+  -------
+    8649
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    8649   VALID SKIP(-4)    1787     NON-INTERVIEW(-5)    2250
+ 
+Min:              0        Max:        2100000        Mean:             1619.14
+ 
+Lead In: R31277.00[Default]
+Default Next Question: R31279.00
+--------------------------------------------------------------------------------
+R35235.00    [CPSHRP]                                       Survey Year: 1991
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+      45           1 TO 99
+      70         100 TO 199
+      84         200 TO 299
+     143         300 TO 399
+     591         400 TO 499
+     750         500 TO 599
+     726         600 TO 699
+     665         700 TO 799
+     718         800 TO 899
+     474         900 TO 999
+    3085        1000 TO 9999999: 1000+
+  -------
+    7351
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7351   VALID SKIP(-4)    1667     NON-INTERVIEW(-5)    3668
+ 
+Min:              8        Max:        2400000        Mean:              1437.1
+ 
+Lead In: R35234.00[Default]
+Default Next Question: R35236.00
+--------------------------------------------------------------------------------
+R37285.00    [CPSHRP]                                       Survey Year: 1992
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: CPSWAGE
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+       2           0
+      42           1 TO 99
+      51         100 TO 199
+      95         200 TO 299
+     120         300 TO 399
+     548         400 TO 499
+     706         500 TO 599
+     679         600 TO 699
+     628         700 TO 799
+     655         800 TO 899
+     524         900 TO 999
+    3232        1000 TO 9999999: 1000+
+  -------
+    7282
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7282   VALID SKIP(-4)    1734     NON-INTERVIEW(-5)    3670
+ 
+Min:              0        Max:        3340000        Mean:             1673.05
+ 
+Lead In: R37284.00[Default]
+Default Next Question: R37286.00
+--------------------------------------------------------------------------------
+R44168.00    [CPSHRP]                                       Survey Year: 1993
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+ORIGINAL QUESTION NAME: CPSHRP
+ 
+ACTUAL DOLLARS AND CENTS
+ 
+COMMENT: HOURLY RATE OF PAY - CPS JOB
+ 
+       3           0
+      34           1 TO 99
+      71         100 TO 199
+      73         200 TO 299
+     120         300 TO 399
+     423         400 TO 499
+     651         500 TO 599
+     663         600 TO 699
+     588         700 TO 799
+     616         800 TO 899
+     525         900 TO 999
+    3504        1000 TO 9999999: 1000+
+  -------
+    7271
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7271   VALID SKIP(-4)    1740     NON-INTERVIEW(-5)    3675
+ 
+Min:              0        Max:        6000000        Mean:             2277.96
+ 
+Lead In: R44167.00[Default]
+Default Next Question: R44169.00
+--------------------------------------------------------------------------------
+R50798.00    [CPSHRP]                                       Survey Year: 1994
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY CURRENT/MOST RECENT JOB
+ 
+COMMENT: HOURLY RATE OF PAY - CPS JOB
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+     589           1 TO 499
+    2877         500 TO 999
+    1921        1000 TO 1499
+     960        1500 TO 1999
+     405        2000 TO 2499
+     151        2500 TO 2999
+      72        3000 TO 3499
+      57        3500 TO 3999
+      24        4000 TO 4499
+      15        4500 TO 4999
+      81        5000 TO 99999999: 5000+
+  -------
+    7152
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7152   VALID SKIP(-4)    1739     NON-INTERVIEW(-5)    3795
+ 
+Min:             11        Max:          20000        Mean:             1226.52
+ 
+Lead In: R50797.00[Default]
+Default Next Question: R50799.00
+--------------------------------------------------------------------------------
+R51652.00    [HRP1]                                         Survey Year: 1996
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       2           0
+     457           1 TO 499
+    2745         500 TO 999
+    1996        1000 TO 1499
+    1080        1500 TO 1999
+     518        2000 TO 2499
+     272        2500 TO 2999
+     115        3000 TO 3499
+      67        3500 TO 3999
+      34        4000 TO 4499
+      21        4500 TO 4999
+     124        5000 TO 99999999: 5000+
+  -------
+    7431
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7431   VALID SKIP(-4)    1205     NON-INTERVIEW(-5)    4050
+ 
+Min:              0        Max:          50000        Mean:             1374.08
+ 
+Lead In: R51650.00[Default]
+Default Next Question: R51652.10
+--------------------------------------------------------------------------------
+R64780.00    [HRP1]                                         Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+     286           1 TO 499
+    2489         500 TO 999
+    1975        1000 TO 1499
+    1229        1500 TO 1999
+     572        2000 TO 2499
+     317        2500 TO 2999
+     148        3000 TO 3499
+      96        3500 TO 3999
+      46        4000 TO 4499
+      33        4500 TO 4999
+     123        5000 TO 99999999: 5000+
+  -------
+    7314
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7314   VALID SKIP(-4)    1085     NON-INTERVIEW(-5)    4287
+ 
+Min:              1        Max:          64903        Mean:             1476.51
+ 
+Lead In: R64779.00[Default]
+Default Next Question: R64780.10
+--------------------------------------------------------------------------------
+R70057.00    [HRP1]                                         Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       0           0
+     223           1 TO 499
+    1980         500 TO 999
+    1906        1000 TO 1499
+    1244        1500 TO 1999
+     653        2000 TO 2499
+     406        2500 TO 2999
+     215        3000 TO 3499
+     119        3500 TO 3999
+      64        4000 TO 4499
+      58        4500 TO 4999
+     175        5000 TO 99999999: 5000+
+  -------
+    7043
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7043   VALID SKIP(-4)     990     NON-INTERVIEW(-5)    4653
+ 
+Min:              1        Max:         100000        Mean:             1673.25
+ 
+Lead In: R70056.00[Default]
+Default Next Question: R70057.10
+--------------------------------------------------------------------------------
+R77029.00    [HRP1]                                         Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       2           0
+     332           1 TO 499
+    1581         500 TO 999
+    1682        1000 TO 1499
+    1199        1500 TO 1999
+     680        2000 TO 2499
+     418        2500 TO 2999
+     273        3000 TO 3499
+     133        3500 TO 3999
+      81        4000 TO 4499
+      52        4500 TO 4999
+     201        5000 TO 99999999: 5000+
+  -------
+    6634
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6634   VALID SKIP(-4)    1090     NON-INTERVIEW(-5)    4962
+ 
+Min:              0        Max:          52564        Mean:             1794.61
+ 
+Lead In: R77028.00[Default]
+Default Next Question: R77029.10
+--------------------------------------------------------------------------------
+R84952.00    [HRP1]                                         Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       3           0
+     421           1 TO 499
+    1298         500 TO 999
+    1573        1000 TO 1499
+    1111        1500 TO 1999
+     685        2000 TO 2499
+     457        2500 TO 2999
+     252        3000 TO 3499
+     165        3500 TO 3999
+     124        4000 TO 4499
+      62        4500 TO 4999
+     215        5000 TO 99999999: 5000+
+  -------
+    6366
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6366   VALID SKIP(-4)    1295     NON-INTERVIEW(-5)    5025
+ 
+Min:              0        Max:          65116        Mean:             1844.84
+ 
+Lead In: R84951.00[Default]
+Default Next Question: R84952.10
+--------------------------------------------------------------------------------
+T09868.00    [HRP1]                                         Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             HOURLY RATE OF PAY JOB #01
+ 
+COMMENT: HOURLY RATE OF PAY - JOB # 1
+ACTUAL DOLLARS AND CENTS
+ 
+       3           0
+     429           1 TO 499
+    1110         500 TO 999
+    1466        1000 TO 1499
+    1113        1500 TO 1999
+     759        2000 TO 2499
+     495        2500 TO 2999
+     288        3000 TO 3499
+     193        3500 TO 3999
+     131        4000 TO 4499
+      84        4500 TO 4999
+     290        5000 TO 99999999: 5000+
+  -------
+    6361
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6361   VALID SKIP(-4)    1293     NON-INTERVIEW(-5)    5032
+ 
+Min:              0        Max:         177884        Mean:             2031.36
+ 
+Lead In: T09867.00[Default]
+Default Next Question: T09868.10

@@ -1,0 +1,70 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R68889.00    [Q11-9G]                                       Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             HOW OFTEN DOES R DO HEAVY HOUSEWORK?
+ 
+How often do you do heavy housework like scrubbing floors or washing windows?
+ 
+     717       1 3 times or more each week
+    2174       2 Once or twice a week
+    1941       3 One to three times each month
+    1550       4 Less than once a month
+    1645       5 Never
+  -------
+    8027
+ 
+Refusal(-1)            5
+Don't Know(-2)         1
+TOTAL =========>    8033   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    4653
+ 
+Lead In: R68888.00[Default]
+Default Next Question: R68890.00
+--------------------------------------------------------------------------------
+R75996.00    [Q11-GENHLTH_6A]                               Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             R CURRENTLY TRYING TO LOSE OR GAIN WEIGHT?
+ 
+Are you now trying to lose weight, gain weight, stay about the same, or are you 
+not trying to do anything about your weight?
+ 
+    3346       1 Lose weight
+     280       2 Gain weight
+    2208       3 Stay about the same
+    1885       4 Not trying to do anything
+  -------
+    7719
+ 
+Refusal(-1)            2
+Don't Know(-2)         2
+TOTAL =========>    7723   VALID SKIP(-4)       1     NON-INTERVIEW(-5)    4962
+ 
+Lead In: R75995.00[Default]  R75994.00[1:1]
+Default Next Question: R75997.00

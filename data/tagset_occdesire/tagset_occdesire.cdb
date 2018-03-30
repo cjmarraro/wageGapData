@@ -1,0 +1,66 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R01720.00    [EXP-10A]                                      Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             OCCUPATION EXPECTATIONS IN 5 YEARS (CENSUS 3 DIGIT)
+ 
+ORIGINAL QUESTION NAME: S22Q10A
+ 
+WHAT KIND OF WORK DO YOU THINK YOU WOULD BE DOING? (IF MORE THAN ONE OCCUPATION,
+PROBE: WHAT ONE KIND OF WORK DO YOU THINK YOU WOULD PREFER?)
+ 
+SEE ATTACHMENT 3 FOR DEFINITIONS
+ 
+UNIVERSE: R expects to be working at a job
+ 
+    2782           1 TO 195: 001-195 PROFESSIONAL,TECHNICAL AND KINDRED
+     460         201 TO 245: 201-245 MANAGERS,OFFICIALS AND PROPRIETORS
+     344         260 TO 285: 260-285 SALES WORKERS
+    1525         301 TO 395: 301-395 CLERICAL AND KINDRED
+    1396         401 TO 575: 401-575 CRAFTSMEN,FOREMEN AND KINDRED
+     221         580 TO 590: 580-590 ARMED FORCES
+     844         601 TO 715: 601-715 OPERATIVES AND KINDRED
+     377         740 TO 785: 740-785 LABORERS, EXCEPT FARM
+      45         801 TO 802: 801-802 FARMERS AND FARM MANAGERS
+      51         821 TO 824: 821-824 FARM LABORERS AND FOREMAN
+    1141         901 TO 965: 901-965 SERVICE WORKERS, EXCEPT PRIVATE HOUSEHOLD
+      27         980 TO 984: 980-984 PRIVATE HOUSEHOLD
+       2           0: 00      NONE
+     741         990: 990     SAME AS PRESENT JOB
+  -------
+    9956
+ 
+Refusal(-1)            1
+Don't Know(-2)      1386
+Invalid Skip(-3)     365
+TOTAL =========>   11708   VALID SKIP(-4)     978     NON-INTERVIEW(-5)       0
+ 
+Min:              0        Max:            990        Mean:              459.25
+ 
+Lead In: R01719.00[Default]
+Default Next Question: R01721.00

@@ -1,0 +1,9 @@
+
+
+Reference
+Number     Year  Variable Description                    Question Name  
+--------------------------------------------------------------------------
+R00001.00  1979  IDENTIFICATION CODE                     CASEID         
+R02147.00  1979  R'S RACIAL/ETHNIC COHORT FROM SCREENER  SAMPLE_RACE    
+R02148.00  1979  SEX OF R                                SAMPLE_SEX     
+T39662.00  2012  AGE OF RESPONDENT                       Q11-H50-1      

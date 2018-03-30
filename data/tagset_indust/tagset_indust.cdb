@@ -1,0 +1,917 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R00463.00    [CPSIND70]                                     Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: S08Q14
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS?
+ 
+UNIVERSE: R who did at least some work outside the house
+ 
+     244          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      26          47 TO 57: 047-057 MINING
+     235          67 TO 77: 067-077 CONSTRUCTION
+     856         107 TO 398: 107-398 MANUFACTURING
+     138         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1796         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     194         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     249         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     436         769 TO 798: 769-798 PERSONAL SERVICES
+     104         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+     749         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     140         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    5167
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      23
+TOTAL =========>    5190   VALID SKIP(-4)    7496     NON-INTERVIEW(-5)       0
+ 
+Min:             17        Max:            937        Mean:              574.82
+ 
+Lead In: R00439.00[Default] R00450.00[Default] R00460.00[Default] 
+         R00446.00[Default] R00440.00[Default]  R00443.00[1:1] R00445.00[1:1] 
+         R00447.00[0:0] R00448.00[0:0] R00449.00[1:1] R00437.00[3:3]
+Default Next Question: R00464.00
+--------------------------------------------------------------------------------
+R02633.00    [CPSIND70]                                     Survey Year: 1980
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: S07Q14
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND RADIO MFG., 
+RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+UNIVERSE: R who did at least some work outside the house
+ 
+     207          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      36          47 TO 57: 047-057 MINING
+     268          67 TO 77: 067-077 CONSTRUCTION
+     990         107 TO 398: 107-398 MANUFACTURING
+     188         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2006         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     258         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     300         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     334         769 TO 798: 769-798 PERSONAL SERVICES
+     113         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+     903         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     148         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    5751
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)       7
+TOTAL =========>    5759   VALID SKIP(-4)    6382     NON-INTERVIEW(-5)     545
+ 
+Min:             17        Max:            937        Mean:              575.51
+ 
+Lead In: R02609.00[Default] R02620.00[Default] R02630.00[Default] 
+         R02616.00[Default] R02610.00[Default]  R02613.00[1:1] R02615.00[2:2] 
+         R02617.00[0:0] R02618.00[0:0] R02619.00[1:1] R02607.00[3:3]
+Default Next Question: R02634.00
+--------------------------------------------------------------------------------
+R04463.00    [CPSIND70]                                     Survey Year: 1981
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: S06D1415
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND RADIO MFG., 
+RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+UNIVERSE: R working or temporarily absent from a job last week
+ 
+     193          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      61          47 TO 57: 047-057 MINING
+     300          67 TO 77: 067-077 CONSTRUCTION
+    1086         107 TO 398: 107-398 MANUFACTURING
+     229         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2024         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     331         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     329         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     319         769 TO 798: 769-798 PERSONAL SERVICES
+     111         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1149         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     205         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    6337
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      13
+TOTAL =========>    6350   VALID SKIP(-4)    5845     NON-INTERVIEW(-5)     491
+ 
+Min:             17        Max:            937        Mean:              581.63
+ 
+Lead In: R04439.00[Default] R04450.00[Default] R04460.00[Default] 
+         R04446.00[Default] R04440.00[Default]  R04443.00[1:1] R04445.00[2:2] 
+         R04447.00[0:0] R04448.00[0:0] R04449.00[1:1] R04437.00[3:3]
+Default Next Question: R04464.00
+--------------------------------------------------------------------------------
+R07020.00    [CPSIND70]                                     Survey Year: 1982
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: S05D1745
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS?
+ 
+UNIVERSE: R who is working/has worked since DLI
+ 
+     384          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+     104          47 TO 57: 047-057 MINING
+     515          67 TO 77: 067-077 CONSTRUCTION
+    1554         107 TO 398: 107-398 MANUFACTURING
+     371         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2783         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     419         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     563         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     469         769 TO 798: 769-798 PERSONAL SERVICES
+     213         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1505         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     408         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    9288
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       6
+TOTAL =========>    9294   VALID SKIP(-4)    2829     NON-INTERVIEW(-5)     563
+ 
+Min:             17        Max:            937        Mean:              572.12
+ 
+Lead In: R07008.00[Default] R07017.00[Default] R06951.00[Default] 
+         R06940.00[Default] R06961.00[Default] R06947.00[Default] 
+         R06941.00[Default]  R06944.00[1:1] R06946.00[2:2] R06948.00[0:0] 
+         R06950.00[1:1] R06938.00[3:3]
+Default Next Question: R07021.00
+--------------------------------------------------------------------------------
+R09449.00    [CPSIND70]                                     Survey Year: 1983
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1357
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND RADIO MFG., 
+RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+UNIVERSE: R who did not do any work outside the house last week; have been 
+looking for work; has done some work since DLI
+ 
+     386          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      99          47 TO 57: 047-057 MINING
+     530          67 TO 77: 067-077 CONSTRUCTION
+    1480         107 TO 398: 107-398 MANUFACTURING
+     387         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2719         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     471         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     603         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     539         769 TO 798: 769-798 PERSONAL SERVICES
+     210         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1575         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     421         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    9420
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      10
+TOTAL =========>    9430   VALID SKIP(-4)    2791     NON-INTERVIEW(-5)     465
+ 
+Min:             17        Max:            937        Mean:              579.09
+ 
+Lead In: R09448.00[Default] R09381.00[Default] R09370.00[Default] 
+         R09391.00[Default] R09377.00[Default] R09371.00[Default]  
+         R09374.00[1:1] R09376.00[2:2] R09378.00[0:0] R09380.00[1:1] 
+         R09368.00[3:3]
+Default Next Question: R09450.00
+--------------------------------------------------------------------------------
+R12553.00    [CPSIND70]                                     Survey Year: 1984
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1752
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+     305          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+     103          47 TO 57: 047-057 MINING
+     525          67 TO 77: 067-077 CONSTRUCTION
+    2010         107 TO 398: 107-398 MANUFACTURING
+     369         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2206         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     458         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     677         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     623         769 TO 798: 769-798 PERSONAL SERVICES
+     234         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1572         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     456         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    9538
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       1
+TOTAL =========>    9539   VALID SKIP(-4)    2530     NON-INTERVIEW(-5)     617
+ 
+Min:             17        Max:            937        Mean:              565.88
+ 
+Lead In: R12552.00[Default]
+Default Next Question: R12554.00
+--------------------------------------------------------------------------------
+R16501.00    [CPSIND70]                                     Survey Year: 1985
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1652
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+     246          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+     100          47 TO 57: 047-057 MINING
+     631          67 TO 77: 067-077 CONSTRUCTION
+    1671         107 TO 398: 107-398 MANUFACTURING
+     417         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2291         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     492         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     665         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     519         769 TO 798: 769-798 PERSONAL SERVICES
+     136         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1524         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     334         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    9026
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)      21
+TOTAL =========>    9048   VALID SKIP(-4)    1846     NON-INTERVIEW(-5)    1792
+ 
+Min:             17        Max:            937        Mean:              564.19
+ 
+Lead In: R16500.00[Default]
+Default Next Question: R16502.00
+--------------------------------------------------------------------------------
+R19227.00    [CPSIND70]                                     Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1035
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM.)
+ 
+     234          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      76          47 TO 57: 047-057 MINING
+     622          67 TO 77: 067-077 CONSTRUCTION
+    1669         107 TO 398: 107-398 MANUFACTURING
+     450         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    2103         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     556         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     683         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     468         769 TO 798: 769-798 PERSONAL SERVICES
+     129         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1579         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     422         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    8991
+ 
+Refusal(-1)            0
+Don't Know(-2)         1
+Invalid Skip(-3)       1
+TOTAL =========>    8993   VALID SKIP(-4)    1662     NON-INTERVIEW(-5)    2031
+ 
+Min:             17        Max:            937        Mean:               570.7
+ 
+Lead In: R19226.00[Default]
+Default Next Question: R19228.00
+--------------------------------------------------------------------------------
+R23175.00    [CPSIND70]                                     Survey Year: 1987
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q0610
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM)
+ 
+     243          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      39          47 TO 57: 047-057 MINING
+     625          67 TO 77: 067-077 CONSTRUCTION
+    1707         107 TO 398: 107-398 MANUFACTURING
+     519         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1857         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     549         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     746         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     567         769 TO 798: 769-798 PERSONAL SERVICES
+     141         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1523         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     415         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    8931
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)       8
+TOTAL =========>    8940   VALID SKIP(-4)    1545     NON-INTERVIEW(-5)    2201
+ 
+Min:             17        Max:            937        Mean:              570.65
+ 
+Lead In: R23174.00[Default]
+Default Next Question: R23176.00
+--------------------------------------------------------------------------------
+R25253.00    [CPSIND70]                                     Survey Year: 1988
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q5.25
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND RADIO
+MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM)
+ 
+     254          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      71          47 TO 57: 047-057 MINING
+     652          67 TO 77: 067-077 CONSTRUCTION
+    1704         107 TO 398: 107-398 MANUFACTURING
+     537         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1835         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     578         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     696         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     461         769 TO 798: 769-798 PERSONAL SERVICES
+     156         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1580         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     472         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    8996
+ 
+Refusal(-1)            1
+Don't Know(-2)         1
+Invalid Skip(-3)      28
+TOTAL =========>    9026   VALID SKIP(-4)    1439     NON-INTERVIEW(-5)    2221
+ 
+Min:             17        Max:            937        Mean:              566.45
+ 
+Lead In: R25252.00[Default]
+Default Next Question: R25254.00
+--------------------------------------------------------------------------------
+R29243.00    [CPSIND70]                                     Survey Year: 1989
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1042
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM)
+ 
+     229          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      47          47 TO 57: 047-057 MINING
+     705          67 TO 77: 067-077 CONSTRUCTION
+    1757         107 TO 398: 107-398 MANUFACTURING
+     561         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1787         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     570         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     698         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     485         769 TO 798: 769-798 PERSONAL SERVICES
+     127         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1675         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     411         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    9052
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      18
+TOTAL =========>    9070   VALID SKIP(-4)    1535     NON-INTERVIEW(-5)    2081
+ 
+Min:             17        Max:            937        Mean:              561.93
+ 
+Lead In: R29242.00[Default]
+Default Next Question: R29244.00
+--------------------------------------------------------------------------------
+R31270.00    [CPSIND70]                                     Survey Year: 1990
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1171
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM, ETC.)
+ 
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+ 
+     222          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      62          47 TO 57: 047-057 MINING
+     682          67 TO 77: 067-077 CONSTRUCTION
+    1724         107 TO 398: 107-398 MANUFACTURING
+     563         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1723         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     566         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     694         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     412         769 TO 798: 769-798 PERSONAL SERVICES
+     118         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1724         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     457         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    8947
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)      40
+TOTAL =========>    8988   VALID SKIP(-4)    1448     NON-INTERVIEW(-5)    2250
+ 
+Min:             17        Max:            937        Mean:              565.47
+ 
+Lead In: R31269.00[Default]
+Default Next Question: R31271.00
+--------------------------------------------------------------------------------
+R35227.00    [CPSIND70]                                     Survey Year: 1991
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q0839
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM, ETC.)
+ 
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+ 
+     197          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      45          47 TO 57: 047-057 MINING
+     598          67 TO 77: 067-077 CONSTRUCTION
+    1382         107 TO 398: 107-398 MANUFACTURING
+     516         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1434         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     483         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     563         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     362         769 TO 798: 769-798 PERSONAL SERVICES
+     126         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1527         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     411         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    7644
+ 
+Refusal(-1)            1
+Don't Know(-2)         0
+Invalid Skip(-3)       4
+TOTAL =========>    7649   VALID SKIP(-4)    1369     NON-INTERVIEW(-5)    3668
+ 
+Min:             17        Max:            937        Mean:              570.02
+ 
+Lead In: R35226.00[Default]
+Default Next Question: R35228.00
+--------------------------------------------------------------------------------
+R37277.00    [CPSIND70]                                     Survey Year: 1992
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q1245
+ 
+WHAT KIND OF BUSINESS OR INDUSTRY IS THIS? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM, ETC.)
+ 
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+ 
+     228          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      57          47 TO 57: 047-057 MINING
+     541          67 TO 77: 067-077 CONSTRUCTION
+    1417         107 TO 398: 107-398 MANUFACTURING
+     497         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1308         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     464         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     614         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     312         769 TO 798: 769-798 PERSONAL SERVICES
+     110         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1606         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     510         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    7664
+ 
+Refusal(-1)            2
+Don't Know(-2)         2
+Invalid Skip(-3)       2
+TOTAL =========>    7670   VALID SKIP(-4)    1346     NON-INTERVIEW(-5)    3670
+ 
+Min:             17        Max:            937        Mean:              575.88
+ 
+Lead In: R37276.00[Default]
+Default Next Question: R37278.00
+--------------------------------------------------------------------------------
+R41820.00    [CPSIND70]                                     Survey Year: 1993
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY OF MOST RECENT JOB (70 CENSUS 3 DIGIT)
+             CPS ITEM
+ 
+ORIGINAL QUESTION NAME: Q6-52
+ 
+What kind of business or industry (is/was) this? (FOR EXAMPLE: TV AND
+RADIO MFG., RETAIL SHOE STORE, STATE LABOR DEPT., FARM)
+ 
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+ 
+     199          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      37          47 TO 57: 047-057 MINING
+     586          67 TO 77: 067-077 CONSTRUCTION
+    1355         107 TO 398: 107-398 MANUFACTURING
+     506         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1289         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     461         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     590         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     357         769 TO 798: 769-798 PERSONAL SERVICES
+      87         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1610         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     472         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    7559
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7559   VALID SKIP(-4)    1452     NON-INTERVIEW(-5)    3675
+ 
+Min:             17        Max:            999        Mean:              577.21
+ 
+FOR 1980 INDUSTRY CODES FOR CURRENT/MOST RECENT JOB, SEE R41938. (CPSIND80)
+ 
+Lead In: R41819.00[Default]
+Default Next Question: R41821.00
+--------------------------------------------------------------------------------
+R45879.01    [CPSOCC80]                                     Survey Year: 1994
+  PRIMARY VARIABLE
+
+ 
+             OCCUPATION AT CURRENT JOB/MOST RECENT JOB (80 CENSUS 3 DIGIT) CPS 
+             ITEM
+ 
+UNIVERSE: R has employer for >= 10 hours per week and >= 9 weeks
+ 
+COMMENT: 1980 CENSUS CODE FOR CPS OCCUPATION
+ 
+    1691           3 TO 199: 003-199 MANAGERIAL AND PROFESSIONAL SPECIALITIES
+     288         203 TO 235: 203-235 TECHNICAL
+     665         243 TO 285: 243-285 SALES
+    1189         303 TO 389: 303-389 ADMINISTRATIVE SUPPORT/CLERICAL
+    1165         403 TO 469: 403-469 SERVICE
+     187         473 TO 499: 473-499 FARMING,FORESTRY AND FISHING
+     832         503 TO 699: 503-699 PRECISION PRODUCTION,CRAFT,REPAIR
+     577         703 TO 799: 703-799 OPERATORS - MACHINE,ASSEMBLERS,INSPECTORS
+     344         803 TO 859: 803-859 OPERATORS - TRANSPORTATION,MATERIAL MOVING
+     420         863 TO 889: 863-889 OPERATORS - HANDLERS,HELPERS,LABORERS
+  -------
+    7369
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     226
+TOTAL =========>    7595   VALID SKIP(-4)    1296     NON-INTERVIEW(-5)    3795
+ 
+Min:              5        Max:            999        Mean:              402.89
+ 
+Lead In: R45867.00[Default] R45868.00[Default] R45869.00[Default] 
+         R45872.00[Default] R45874.00[Default] R45875.00[Default] 
+         R45876.00[Default] R45879.00[Default]  R45870.00[1:1]
+Default Next Question: R45879.02
+--------------------------------------------------------------------------------
+R52705.00    [INDALL-EMP.01]                                Survey Year: 1996
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 3 DIGIT, 70 CODES) (ALL) JOB 
+             #01
+ 
+COMMENT: 1970 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER # 1
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER # 1
+ 
+     185          17 TO 28: AGRICULTURE,FORESTRY AND FISHERIES
+      42          47 TO 57: MINING
+     557          67 TO 77: CONSTRUCTION
+    1305         107 TO 398: MANUFACTURING
+     531         407 TO 479: TRANSPORTATION,COMMUNICATION,PUBLIC UTILITIES
+    1208         507 TO 698: WHOLESALE AND RETAIL TRADE
+     416         707 TO 718: FINANCE,INSURANCE AND REAL ESTATE
+     614         727 TO 759: BUSINESS AND REPAIR SERVICES
+     349         769 TO 798: PERSONAL SERVICES
+     100         807 TO 809: ENTERTAINMENT AND RECREATION SERVICES
+    1666         828 TO 897: PROFESSIONAL AND RELATED SERVICES
+     509         907 TO 937: PUBLIC ADMINISTRATION
+      93         999: INDUSTRY NOT REPORTED
+  -------
+    7575
+ 
+Refusal(-1)            0
+Don't Know(-2)         1
+Invalid Skip(-3)      44
+TOTAL =========>    7620   VALID SKIP(-4)    1016     NON-INTERVIEW(-5)    4050
+ 
+Min:             17        Max:            999        Mean:              589.36
+ 
+Lead In: R52688.00[Default] R52689.00[Default] R52690.00[Default] 
+         R52699.00[Default] R52701.00[Default]  R52691.00[1:1]
+Default Next Question: R52706.00
+--------------------------------------------------------------------------------
+R64721.00    [INDALL-EMP.01]                                Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 3 DIGIT, 70 CODES) (ALL) JOB 
+             #01
+ 
+COMMENT: 1970 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER
+ 
+     176          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      36          47 TO 57: 047-057 MINING
+     544          67 TO 77: 067-077 CONSTRUCTION
+    1296         107 TO 398: 107-398 MANUFACTURING
+     581         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1156         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     417         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     631         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     305         769 TO 798: 769-798 PERSONAL SERVICES
+     118         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1720         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     502         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    7501
+ 
+Refusal(-1)            2
+Don't Know(-2)         5
+TOTAL =========>    7508   VALID SKIP(-4)     891     NON-INTERVIEW(-5)    4287
+ 
+Min:              0        Max:            944        Mean:              584.71
+ 
+Lead In: R59250.00[Default] R59258.00[Default] R59267.00[Default] 
+         R59335.00[Default] R59346.00[Default] R59350.00[Default] 
+         R59366.00[Default]  R59276.00[1:1]
+Default Next Question: R64726.00
+--------------------------------------------------------------------------------
+R65913.00    [INDALL-EMP.01]                                Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 3 DIGIT, 70 CODES) (ALL) JOB 
+             #01
+ 
+COMMENT: 1970 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER
+ 
+     157          17 TO 28: 017-028 AGRICULTURE,FORESTRY AND FISHERIES
+      28          47 TO 57: 047-057 MINING
+     552          67 TO 77: 067-077 CONSTRUCTION
+    1178         107 TO 398: 107-398 MANUFACTURING
+     589         407 TO 479: 407-479 TRANSPORTATION,COMMUNICATION,PUBLIC 
+                          UTILITIES
+    1124         507 TO 698: 507-698 WHOLESALE AND RETAIL TRADE
+     413         707 TO 718: 707-718 FINANCE,INSURANCE AND REAL ESTATE
+     611         727 TO 759: 727-759 BUSINESS AND REPAIR SERVICES
+     259         769 TO 798: 769-798 PERSONAL SERVICES
+     124         807 TO 809: 807-809 ENTERTAINMENT AND RECREATION SERVICES
+    1681         828 TO 897: 828-897 PROFESSIONAL AND RELATED SERVICES
+     489         907 TO 937: 907-937 PUBLIC ADMINISTRATION
+  -------
+    7238
+ 
+Refusal(-1)            0
+Don't Know(-2)         4
+TOTAL =========>    7242   VALID SKIP(-4)     791     NON-INTERVIEW(-5)    4653
+ 
+Min:              0        Max:            999        Mean:              587.28
+ 
+Lead In: R65847.00[Default] R65852.00[Default] R65894.00[Default] 
+         R65908.00[Default]  R65862.00[1:1] R65890.00[1:1]
+Default Next Question: R65918.00
+--------------------------------------------------------------------------------
+R72091.00    [INDALL-EMP.01]                                Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 3 DIGIT, 00 CODES) (ALL) JOB 
+             #01
+ 
+2000 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER
+ 
+COMMENT: 2000 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER
+ 
+      83          17 TO 29: Agriculture, Forestry, Fishing, and Hunting
+      23          37 TO 49: Mining
+      70          57 TO 69: Utilities
+     544          77: Construction
+     973         107 TO 399: Manufacturing
+     216         407 TO 459: Wholesale Trade
+     593         467 TO 579: Retail Trade
+     375         607 TO 639: Transportation and Warehousing
+     196         647 TO 679: Information
+     305         687 TO 699: Finance and Insurance
+     116         707 TO 719: Real Estate and Rental and Leasing
+     314         727 TO 749: Professional, Scientific, and Technical Services
+     367         757 TO 779: Management, Administrative and Support, and Waste 
+                          Management Services
+     561         786 TO 789: Educational Services
+     895         797 TO 855: Health Care and Social Assistance
+     104         856 TO 859: Arts, Entertainment, and Recreation
+     344         866 TO 869: Accomodations and Food Services
+     310         877 TO 929: Other Services (Except Public Administration)
+     453         937 TO 987: Public Administration and Active Duty Military
+  -------
+    6890
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6890   VALID SKIP(-4)     834     NON-INTERVIEW(-5)    4962
+ 
+Min:             17        Max:            999        Mean:              609.79
+ 
+Lead In: None.
+Default Next Question: R72096.00
+--------------------------------------------------------------------------------
+R78975.00    [INDALL-EMP.01]                                Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 4 DIGIT, 00 NAICS-BASED CODES)
+             (ALL) JOB #01
+ 
+COMMENT: 2000 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER (UPDATED IN 2002)
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER
+ 
+      67         170 TO 290: Agriculture, Forestry, Fishing, and Hunting
+      24         370 TO 490: Mining
+      69         570 TO 690: Utilities
+     526         770: Construction
+     871        1070 TO 3990: Manufacturing
+     204        4070 TO 4590: Wholesale Trade
+     577        4670 TO 5790: Retail Trade
+     373        6070 TO 6390: Transportation and Warehousing
+     185        6470 TO 6780: Information
+     303        6870 TO 6990: Finance and Insurance
+     100        7070 TO 7190: Real Estate and Rental and Leasing
+     303        7270 TO 7490: Professional, Scientific, and Technical Services
+     371        7570 TO 7790: Management, Administrative and Support, and Waste 
+                          Management Services
+     574        7860 TO 7890: Educational Services
+     927        7970 TO 8470: Health Care and Social Assistance
+      97        8560 TO 8590: Arts, Entertainment, and Recreation
+     312        8660 TO 8690: Accomodations and Food Services
+     287        8770 TO 9290: Other Services (Except Public Administration)
+     447        9370 TO 9870: Public Administration and Active Duty Military
+       5        9890: Armed Forces (for CPS)
+       2        9950: Not in Labor Force (ACS code)
+      10        9990: Uncodeable
+  -------
+    6634
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)       8
+TOTAL =========>    6642   VALID SKIP(-4)    1019     NON-INTERVIEW(-5)    5025
+ 
+Min:            170        Max:           9990        Mean:             6139.46
+ 
+Lead In: None.
+Default Next Question: R78980.00
+--------------------------------------------------------------------------------
+T01379.00    [INDALL-EMP.01]                                Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             TYPE OF BUSINESS OR INDUSTRY (CENSUS 4 DIGIT, 00 NAICS-BASED CODES)
+             (ALL) JOB #01
+ 
+COMMENT: 2000 CENSUS CODE FOR BUSINESS OR INDUSTRY - EMPLOYER (UPDATED IN 2002)
+SEE ATTACHMENT 3, INDUSTRY AND OCCUPATION CODES
+ 
+INCLUDES DATA FOR ALL R'S REPORTING EMPLOYER
+ 
+      62         170 TO 290: Agriculture, Forestry, Fishing, and Hunting
+      20         370 TO 490: Mining
+      53         570 TO 690: Utilities
+     510         770: Construction
+     699        1070 TO 3990: Manufacturing
+     173        4070 TO 4590: Wholesale Trade
+     452        4670 TO 5790: Retail Trade
+     346        6070 TO 6390: Transportation and Warehousing
+     138        6470 TO 6780: Information
+     231        6870 TO 6990: Finance and Insurance
+     105        7070 TO 7190: Real Estate and Rental and Leasing
+     260        7270 TO 7490: Professional, Scientific, and Technical Services
+     304        7570 TO 7790: Management, Administrative and Support, and Waste 
+                          Management Services
+     461        7860 TO 7890: Educational Services
+     775        7970 TO 8470: Health Care and Social Assistance
+      79        8560 TO 8590: Arts, Entertainment, and Recreation
+     254        8660 TO 8690: Accomodations and Food Services
+     274        8770 TO 9290: Other Services (Except Public Administration)
+     328        9370 TO 9870: Public Administration and Active Duty Military
+       4        9890: Armed Forces (for CPS)
+       0        9950: Not in Labor Force (ACS code)
+     991        9990: Uncodeable
+  -------
+    6519
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    6519   VALID SKIP(-4)    1135     NON-INTERVIEW(-5)    5032
+ 
+Min:            170        Max:           9990        Mean:              6663.8
+ 
+Lead In: None.
+Default Next Question: T01384.00

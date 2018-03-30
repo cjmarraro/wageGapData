@@ -1,0 +1,63 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R19076.00    [Q3-25.01]                                     Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             CREDIT HOURS EARNED AT MOST RECENT COLLEGE ATTENDED
+ 
+ORIGINAL QUESTION NAME: Q0378
+ 
+WHAT (IS/WAS) THE TOTAL NUMBER OF CREDIT HOURS YOU EARNED AT (NAME OF SCHOOL)?
+ 
+ACTUAL HOURS
+ 
+UNIVERSE: R is/was attending college/university
+ 
+     104           0
+     464           1 TO 24
+     226          25 TO 49
+     189          50 TO 74
+     156          75 TO 99
+     212         100 TO 124
+     163         125 TO 149
+      65         150 TO 174
+      37         175 TO 199
+      32         200 TO 224
+      10         225 TO 249
+      19         250 TO 9999999: 250+
+  -------
+    1677
+ 
+Refusal(-1)            0
+Don't Know(-2)        78
+Invalid Skip(-3)      28
+TOTAL =========>    1783   VALID SKIP(-4)    8872     NON-INTERVIEW(-5)    2031
+ 
+Min:              0        Max:            806        Mean:               69.65
+ 
+Lead In: R19075.00[Default]
+Default Next Question: R19078.00

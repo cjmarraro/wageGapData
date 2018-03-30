@@ -1,0 +1,947 @@
+R00001.00    [CASEID]                                       Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             IDENTIFICATION CODE
+ 
+ORIGINAL QUESTION NAME: CASEID
+ 
+NOTE: THIS NUMBER WAS ASSIGNED ACCORDING TO THE RECORD NUMBER OF EACH RESPONDENT
+ON THE TAPE. THE FIRST RESPONDENT WAS ASSIGNED ID#1, THE SECOND WAS ASSIGNED 
+ID#2, ETC.
+ 
+ACTUAL NUMBER
+ 
+UNIVERSE: All
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>   12686   VALID SKIP(-4)       0     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:          12686        Mean:              6343.5
+ 
+Lead In: None.
+Default Next Question: R00001.49
+--------------------------------------------------------------------------------
+R00687.10    [TENURE1]                                      Survey Year: 1979
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+    3391           1 TO 49
+    1576          50 TO 99
+      87         100 TO 149
+      37         150 TO 199
+      17         200 TO 249
+       7         250 TO 299
+       1         300 TO 349
+       1         350 TO 399
+       1         400 TO 449
+       1         450 TO 499
+  -------
+    5119
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      79
+TOTAL =========>    5198   VALID SKIP(-4)    7488     NON-INTERVIEW(-5)       0
+ 
+Min:              1        Max:            479        Mean:               37.22
+ 
+Lead In: R00687.00[Default]
+Default Next Question: R00688.00
+--------------------------------------------------------------------------------
+R03332.21    [TENURE1]                                      Survey Year: 1980
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    6096           1 TO 49
+    1466          50 TO 99
+     835         100 TO 149
+      46         150 TO 199
+      15         200 TO 249
+       9         250 TO 299
+       5         300 TO 349
+       1         350 TO 399
+       1         400 TO 449
+       0         450 TO 499
+       1         500 TO 9999999: 500+
+  -------
+    8475
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     169
+TOTAL =========>    8644   VALID SKIP(-4)    3497     NON-INTERVIEW(-5)     545
+ 
+Min:              1        Max:            527        Mean:               38.72
+ 
+Lead In: R03332.20[Default]
+Default Next Question: R03333.00
+--------------------------------------------------------------------------------
+R05394.10    [TENURE1]                                      Survey Year: 1981
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    5787           1 TO 49
+    1880          50 TO 99
+     841         100 TO 149
+     561         150 TO 199
+      35         200 TO 249
+      13         250 TO 299
+       6         300 TO 349
+       4         350 TO 399
+       1         400 TO 449
+       1         450 TO 499
+       1         500 TO 9999999: 500+
+  -------
+    9130
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     126
+TOTAL =========>    9256   VALID SKIP(-4)    2939     NON-INTERVIEW(-5)     491
+ 
+Min:              1        Max:            580        Mean:               49.98
+ 
+Lead In: R05394.00[Default]
+Default Next Question: R05395.00
+--------------------------------------------------------------------------------
+R08338.10    [TENURE1]                                      Survey Year: 1982
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    5581           1 TO 49
+    1852          50 TO 99
+     979         100 TO 149
+     537         150 TO 199
+     404         200 TO 249
+      26         250 TO 299
+       9         300 TO 349
+       4         350 TO 399
+       3         400 TO 449
+       1         450 TO 499
+       1         500 TO 9999999: 500+
+  -------
+    9397
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     129
+TOTAL =========>    9526   VALID SKIP(-4)    2597     NON-INTERVIEW(-5)     563
+ 
+Min:              1        Max:            634        Mean:               59.54
+ 
+Lead In: R08338.00[Default]
+Default Next Question: R08339.00
+--------------------------------------------------------------------------------
+R10810.10    [TENURE1]                                      Survey Year: 1983
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    4923           1 TO 49
+    1980          50 TO 99
+    1067         100 TO 149
+     700         150 TO 199
+     403         200 TO 249
+     337         250 TO 299
+      21         300 TO 349
+       7         350 TO 399
+       4         400 TO 449
+       4         450 TO 499
+       1         500 TO 9999999: 500+
+  -------
+    9447
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     120
+TOTAL =========>    9567   VALID SKIP(-4)    2654     NON-INTERVIEW(-5)     465
+ 
+Min:              1        Max:            686        Mean:               73.05
+ 
+Lead In: R10810.00[Default]
+Default Next Question: R10811.00
+--------------------------------------------------------------------------------
+R14567.10    [TENURE1]                                      Survey Year: 1984
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    4870           1 TO 49
+    1722          50 TO 99
+    1103         100 TO 149
+     715         150 TO 199
+     498         200 TO 249
+     343         250 TO 299
+     277         300 TO 349
+      17         350 TO 399
+       9         400 TO 449
+       4         450 TO 499
+       3         500 TO 9999999: 500+
+  -------
+    9561
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     117
+TOTAL =========>    9678   VALID SKIP(-4)    2391     NON-INTERVIEW(-5)     617
+ 
+Min:              1        Max:            741        Mean:               82.55
+ 
+Lead In: R14567.00[Default]
+Default Next Question: R14568.00
+--------------------------------------------------------------------------------
+R18035.10    [TENURE1]                                      Survey Year: 1985
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    4365           1 TO 49
+    1675          50 TO 99
+     869         100 TO 149
+     690         150 TO 199
+     487         200 TO 249
+     366         250 TO 299
+     283         300 TO 349
+     247         350 TO 399
+      14         400 TO 449
+       9         450 TO 499
+       8         500 TO 9999999: 500+
+  -------
+    9013
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      96
+TOTAL =========>    9109   VALID SKIP(-4)    1785     NON-INTERVIEW(-5)    1792
+ 
+Min:              1        Max:            790        Mean:                93.8
+ 
+Lead In: R18035.00[Default]
+Default Next Question: R18036.00
+--------------------------------------------------------------------------------
+R21651.10    [TENURE1]                                      Survey Year: 1986
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    3960           1 TO 49
+    1686          50 TO 99
+    1012         100 TO 149
+     595         150 TO 199
+     487         200 TO 249
+     394         250 TO 299
+     276         300 TO 349
+     245         350 TO 399
+     236         400 TO 449
+      13         450 TO 499
+      16         500 TO 9999999: 500+
+  -------
+    8920
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     102
+TOTAL =========>    9022   VALID SKIP(-4)    1633     NON-INTERVIEW(-5)    2031
+ 
+Min:              1        Max:            647        Mean:              105.98
+ 
+Lead In: R21651.00[Default]
+Default Next Question: R21652.00
+--------------------------------------------------------------------------------
+R23725.10    [TENURE1]                                      Survey Year: 1987
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    3404           1 TO 49
+    1820          50 TO 99
+    1034         100 TO 149
+     715         150 TO 199
+     470         200 TO 249
+     389         250 TO 299
+     315         300 TO 349
+     250         350 TO 399
+     230         400 TO 449
+     223         450 TO 499
+      43         500 TO 9999999: 500+
+  -------
+    8893
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      81
+TOTAL =========>    8974   VALID SKIP(-4)    1511     NON-INTERVIEW(-5)    2201
+ 
+Min:              1        Max:            700        Mean:              121.82
+ 
+Lead In: R23725.00[Default]
+Default Next Question: R23726.00
+--------------------------------------------------------------------------------
+R27634.10    [TENURE1]                                      Survey Year: 1988
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    3339           1 TO 49
+    1690          50 TO 99
+    1025         100 TO 149
+     745         150 TO 199
+     545         200 TO 249
+     417         250 TO 299
+     276         300 TO 349
+     282         350 TO 399
+     229         400 TO 449
+     182         450 TO 499
+     280         500 TO 9999999: 500+
+  -------
+    9010
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     110
+TOTAL =========>    9120   VALID SKIP(-4)    1345     NON-INTERVIEW(-5)    2221
+ 
+Min:              1        Max:            781        Mean:              133.68
+ 
+Lead In: R27634.00[Default]
+Default Next Question: R27635.00
+--------------------------------------------------------------------------------
+R30052.10    [TENURE1]                                      Survey Year: 1989
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    3160           1 TO 49
+    1545          50 TO 99
+    1048         100 TO 149
+     750         150 TO 199
+     587         200 TO 249
+     446         250 TO 299
+     338         300 TO 349
+     230         350 TO 399
+     242         400 TO 449
+     208         450 TO 499
+     435         500 TO 9999999: 500+
+  -------
+    8989
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     103
+TOTAL =========>    9092   VALID SKIP(-4)    1513     NON-INTERVIEW(-5)    2081
+ 
+Min:              1        Max:            819        Mean:               148.1
+ 
+Lead In: R30052.00[Default]
+Default Next Question: R30053.00
+--------------------------------------------------------------------------------
+R33326.10    [TENURE1]                                      Survey Year: 1990
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    2846           1 TO 49
+    1522          50 TO 99
+    1012         100 TO 149
+     766         150 TO 199
+     594         200 TO 249
+     457         250 TO 299
+     366         300 TO 349
+     295         350 TO 399
+     190         400 TO 449
+     222         450 TO 499
+     601         500 TO 9999999: 500+
+  -------
+    8871
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     153
+TOTAL =========>    9024   VALID SKIP(-4)    1412     NON-INTERVIEW(-5)    2250
+ 
+Min:              1        Max:            873        Mean:              163.18
+ 
+Lead In: R33326.00[Default]
+Default Next Question: R33327.00
+--------------------------------------------------------------------------------
+R35976.10    [TENURE1]                                      Survey Year: 1991
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: *CREATED
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    2169           1 TO 49
+    1256          50 TO 99
+     829         100 TO 149
+     660         150 TO 199
+     575         200 TO 249
+     402         250 TO 299
+     361         300 TO 349
+     264         350 TO 399
+     236         400 TO 449
+     148         450 TO 499
+     654         500 TO 9999999: 500+
+  -------
+    7554
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     122
+TOTAL =========>    7676   VALID SKIP(-4)    1342     NON-INTERVIEW(-5)    3668
+ 
+Min:              1        Max:            922        Mean:              181.88
+ 
+Lead In: R35976.00[Default]
+Default Next Question: R35977.00
+--------------------------------------------------------------------------------
+R39478.00    [TENURE1]                                      Survey Year: 1992
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: TENURE1
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+       0           0
+    2030           1 TO 49
+    1138          50 TO 99
+     836         100 TO 149
+     651         150 TO 199
+     543         200 TO 249
+     473         250 TO 299
+     356         300 TO 349
+     314         350 TO 399
+     253         400 TO 449
+     209         450 TO 499
+     755         500 TO 9999999: 500+
+  -------
+    7558
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     120
+TOTAL =========>    7678   VALID SKIP(-4)    1338     NON-INTERVIEW(-5)    3670
+ 
+Min:              1        Max:            976        Mean:              199.64
+ 
+Lead In: R39477.00[Default]
+Default Next Question: R39479.00
+--------------------------------------------------------------------------------
+R44163.00    [TENURE1]                                      Survey Year: 1993
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+ORIGINAL QUESTION NAME: TENURE1
+ 
+ACTUAL WEEKS
+ 
+UNIVERSE: R has employer
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+    1903           1 TO 49
+    1053          50 TO 99
+     735         100 TO 149
+     647         150 TO 199
+     536         200 TO 249
+     448         250 TO 299
+     435         300 TO 349
+     318         350 TO 399
+     268         400 TO 449
+     234         450 TO 499
+     894         500 TO 9999999: 500+
+  -------
+    7471
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     117
+TOTAL =========>    7588   VALID SKIP(-4)    1423     NON-INTERVIEW(-5)    3675
+ 
+Min:              1        Max:           1023        Mean:              217.85
+ 
+Lead In: R44162.00[Default]
+Default Next Question: R44164.00
+--------------------------------------------------------------------------------
+R50793.00    [TENURE1]                                      Survey Year: 1994
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+UNIVERSE: R has employer
+ 
+COMMENT: TENURE - FIRST JOB
+ACTUAL WEEKS
+ 
+       0           0
+    1914           1 TO 49
+    1017          50 TO 99
+     681         100 TO 149
+     534         150 TO 199
+     527         200 TO 249
+     450         250 TO 299
+     401         300 TO 349
+     374         350 TO 399
+     276         400 TO 449
+     246         450 TO 499
+    1049         500 TO 99999999: 500+
+  -------
+    7469
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      95
+TOTAL =========>    7564   VALID SKIP(-4)    1327     NON-INTERVIEW(-5)    3795
+ 
+Min:              1        Max:           1046        Mean:              231.56
+ 
+Lead In: R50792.00[Default]
+Default Next Question: R50794.00
+--------------------------------------------------------------------------------
+R51646.00    [TENURE1]                                      Survey Year: 1996
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+UNIVERSE: R has employer
+ 
+COMMENT: TENURE - FIRST JOB
+ACTUAL WEEKS
+ 
+       0           0
+    1782           1 TO 49
+    1162          50 TO 99
+     687         100 TO 149
+     558         150 TO 199
+     387         200 TO 249
+     366         250 TO 299
+     380         300 TO 349
+     331         350 TO 399
+     296         400 TO 449
+     297         450 TO 499
+    1291         500 TO 99999999: 500+
+  -------
+    7537
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      99
+TOTAL =========>    7636   VALID SKIP(-4)    1000     NON-INTERVIEW(-5)    4050
+ 
+Min:              1        Max:           1149        Mean:              251.98
+ 
+Lead In: R57564.00[Default]
+Default Next Question: R51647.00
+--------------------------------------------------------------------------------
+R64775.00    [TENURE1]                                      Survey Year: 1998
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+UNIVERSE: R has employer
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+    1647           1 TO 49
+     997          50 TO 99
+     765         100 TO 149
+     584         150 TO 199
+     454         200 TO 249
+     345         250 TO 299
+     278         300 TO 349
+     242         350 TO 399
+     310         400 TO 449
+     258         450 TO 499
+    1547         500 TO 99999999: 500+
+  -------
+    7427
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      92
+TOTAL =========>    7519   VALID SKIP(-4)     880     NON-INTERVIEW(-5)    4287
+ 
+Min:              1        Max:           1477        Mean:              277.03
+ 
+Lead In: R64774.00[Default]
+Default Next Question: R64776.00
+--------------------------------------------------------------------------------
+R70052.00    [TENURE1]                                      Survey Year: 2000
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+    1330           1 TO 49
+     881          50 TO 99
+     745         100 TO 149
+     555         150 TO 199
+     473         200 TO 249
+     362         250 TO 299
+     291         300 TO 349
+     268         350 TO 399
+     229         400 TO 449
+     185         450 TO 499
+    1827         500 TO 99999999: 500+
+  -------
+    7146
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      96
+TOTAL =========>    7242   VALID SKIP(-4)     791     NON-INTERVIEW(-5)    4653
+ 
+Min:              1        Max:           1588        Mean:              315.14
+ 
+Lead In: R70051.00[Default]
+Default Next Question: R70053.00
+--------------------------------------------------------------------------------
+R77024.00    [TENURE1]                                      Survey Year: 2002
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+    1085           1 TO 49
+     865          50 TO 99
+     638         100 TO 149
+     543         150 TO 199
+     439         200 TO 249
+     374         250 TO 299
+     337         300 TO 349
+     285         350 TO 399
+     215         400 TO 449
+     224         450 TO 499
+    1787         500 TO 99999999: 500+
+  -------
+    6792
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     110
+TOTAL =========>    6902   VALID SKIP(-4)     822     NON-INTERVIEW(-5)    4962
+ 
+Min:              1        Max:           1693        Mean:              341.45
+ 
+Lead In: None.
+Default Next Question: R77025.00
+--------------------------------------------------------------------------------
+R84947.00    [TENURE1]                                      Survey Year: 2004
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+     916           1 TO 49
+     678          50 TO 99
+     624         100 TO 149
+     487         150 TO 199
+     438         200 TO 249
+     354         250 TO 299
+     354         300 TO 349
+     268         350 TO 399
+     266         400 TO 449
+     221         450 TO 499
+    1949         500 TO 99999999: 500+
+  -------
+    6555
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      99
+TOTAL =========>    6654   VALID SKIP(-4)    1007     NON-INTERVIEW(-5)    5025
+ 
+Min:              1        Max:           1797        Mean:              383.13
+ 
+Lead In: R84918.00[Default] R84946.00[Default]
+Default Next Question: R84948.00
+--------------------------------------------------------------------------------
+T09863.00    [TENURE1]                                      Survey Year: 2006
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+    1065           1 TO 49
+     775          50 TO 99
+     504         100 TO 149
+     385         150 TO 199
+     384         200 TO 249
+     303         250 TO 299
+     313         300 TO 349
+     268         350 TO 399
+     251         400 TO 449
+     227         450 TO 499
+    2093         500 TO 99999999: 500+
+  -------
+    6568
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     102
+TOTAL =========>    6670   VALID SKIP(-4)     984     NON-INTERVIEW(-5)    5032
+ 
+Min:              1        Max:           1887        Mean:              401.69
+ 
+Lead In: T09862.00[Default]
+Default Next Question: T09864.00
+--------------------------------------------------------------------------------
+T22086.00    [TENURE1]                                      Survey Year: 2008
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+     939           1 TO 49
+     699          50 TO 99
+     545         100 TO 149
+     447         150 TO 199
+     325         200 TO 249
+     272         250 TO 299
+     285         300 TO 349
+     235         350 TO 399
+     265         400 TO 449
+     202         450 TO 499
+    2375         500 TO 99999999: 500+
+  -------
+    6589
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     127
+TOTAL =========>    6716   VALID SKIP(-4)    1041     NON-INTERVIEW(-5)    4929
+ 
+Min:              1        Max:           1969        Mean:              442.69
+ 
+Lead In: T22085.00[Default]
+Default Next Question: T22087.00
+--------------------------------------------------------------------------------
+T31064.00    [TENURE1]                                      Survey Year: 2010
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+     700           1 TO 49
+     586          50 TO 99
+     530         100 TO 149
+     416         150 TO 199
+     353         200 TO 249
+     334         250 TO 299
+     252         300 TO 349
+     201         350 TO 399
+     228         400 TO 449
+     217         450 TO 499
+    2448         500 TO 99999999: 500+
+  -------
+    6265
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)     108
+TOTAL =========>    6373   VALID SKIP(-4)    1192     NON-INTERVIEW(-5)    5121
+ 
+Min:              1        Max:           1763        Mean:              485.12
+ 
+Lead In: None.
+Default Next Question: T31065.00
+--------------------------------------------------------------------------------
+T41104.00    [TENURE1]                                      Survey Year: 2012
+  PRIMARY VARIABLE
+
+ 
+             TOTAL TENURE (IN WEEKS) WITH EMPLOYER AS OF INTERVIEW DATE JOB #01
+ 
+COMMENT: TENURE - FIRST JOB
+ 
+       0           0
+     651           1 TO 49
+     471          50 TO 99
+     453         100 TO 149
+     297         150 TO 199
+     301         200 TO 249
+     306         250 TO 299
+     262         300 TO 349
+     214         350 TO 399
+     236         400 TO 449
+     167         450 TO 499
+    2588         500 TO 99999999: 500+
+  -------
+    5946
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+Invalid Skip(-3)      90
+TOTAL =========>    6036   VALID SKIP(-4)    1265     NON-INTERVIEW(-5)    5385
+ 
+Min:              1        Max:           1906        Mean:              544.48
+ 
+Lead In: None.
+Default Next Question: T41105.00
+--------------------------------------------------------------------------------
+T41149.00    [JOBSNUM]                                      Survey Year: 2012
+  PRIMARY VARIABLE
+
+ 
+             NUMBER OF DIFFERENT JOBS EVER REPORTED AS OF INTERVIEW DATE
+ 
+COMMENT: Number of jobs ever reported at interview date
+ 
+      30           0
+     734           1 TO 4
+    2206           5 TO 9
+    2047          10 TO 14
+    1250          15 TO 19
+     598          20 TO 24
+     265          25 TO 29
+     109          30 TO 34
+      39          35 TO 39
+      13          40 TO 44
+       7          45 TO 49
+       3          50 TO 99999999: 50+
+  -------
+    7301
+ 
+Refusal(-1)            0
+Don't Know(-2)         0
+TOTAL =========>    7301   VALID SKIP(-4)       0     NON-INTERVIEW(-5)    5385
+ 
+Min:              0        Max:             58        Mean:               12.19
+ 
+Lead In: T41148.00[Default]
+Default Next Question: T41150.00
