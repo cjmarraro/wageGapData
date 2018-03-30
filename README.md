@@ -1,1 +1,1 @@
-# wageGapData
+# wageGapDataThe data sets provided here were compiled from NLYS79 census survey data as part of a research project on gender wage disparity. To run the R code, only the csv files need to be imported. The remaining directories provide information about the source and origin of the data.
